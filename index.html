@@ -44,23 +44,88 @@
 				color: '#000',
 				weight: 1,
 				opacity: 1,
-				fillOpacity: 0.8
+				fillOpacity: 0.6
 			});
 		},
 
         onEachFeature(feature, layer) {
                 if (feature.properties && feature.properties.ARRET) {
-                    layer.bindPopup("Arrêt " + feature.properties.ARRET.toString());
+                    layer.bindPopup("Arrêt de bus : " + feature.properties.ARRET.toString());
             }
         }
     }).addTo(map);
     
-    // L.geoJSON(aVelo).addTo(map);
-    // L.geoJSON(Parcours).addTo(map);
+    L.geoJSON(aVelo, {
+        pointToLayer(feature, latlng) {
+			return L.circleMarker(latlng, { // mettre icône de vélo?
+				radius: 3,
+				fillColor: '#0cdcb4',
+				color: '#000',
+				weight: 1,
+				opacity: 1,
+				fillOpacity: 0.6
+			});
+		},
+
+        onEachFeature(feature, layer) {
+                if (feature.properties && feature.properties.Capacité) {
+                    layer.bindPopup("Station àVélo : " + parseInt(feature.properties.Capacité).toString() + " ancrages");
+            }
+        }
+    }).addTo(map);
+
+    L.geoJSON(Parcours, {
+        style: function(feature) {
+            if (feature.properties && feature.properties.Type) {
+                if (feature.properties.Type == "Régulier") {
+                    return {
+                        color: '#003878',
+                        weight: 4,
+                        opacity: 1
+                    };
+                }
+                else if (feature.properties.Type == "Métrobus") {
+                    return {
+                        color: '#7ea95f',
+                        weight: 4,
+                        opacity: 1
+                    };
+                }
+                else if (feature.properties.Type.includes("Express")) {
+                    return {
+                        color: '#e22b13',
+                        weight: 4,
+                        opacity: 1
+                    };
+                }
+                else if (feature.properties.Type == "Couche-Tard") {
+                    return {
+                        color: '##222221',
+                        weight: 4,
+                        opacity: 1
+                    };
+                }
+                else {
+                    return {
+                        color: '#b3b3b3',
+                        weight: 4,
+                        opacity: 1
+                    };
+                }
+            }
+        },
+
+        onEachFeature(feature, layer) {
+                if (feature.properties && feature.properties.Nom) {
+                    layer.bindPopup("Parcours de bus : " + feature.properties.Nom);
+            }
+        }
+    }).addTo(map);
+
     // L.geoJSON(vdq_infrastructurepietonne).addTo(map);
     // L.geoJSON(vdq_reseaucyclable).addTo(map);
     // L.geoJSON(vdq_voiepublique).addTo(map);
-    // L.geoJSON(ZoneFlexibus).addTo(map);
+    // L.geoJSON(ZoneFlexibus).addTo(map); //#ffc629
 
 
     </script>
