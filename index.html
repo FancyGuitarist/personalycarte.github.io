@@ -3,131 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v9.2.4/ol.css">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-
     <title>PersonalyCarte</title>
-    <style>
-        .map {
-          height: 100vh;
-          width: 100%;
-        }
-    </style>
-    <script src="Data/Arrets.geojson"></script>
-    <script src="Data/aVelo.geojson"></script>
-    <script src="Data/Parcours.geojson"></script>
-    <script src="Data/vdq-infrastructurepietonne.geojson"></script>
-    <script src="Data/vdq-reseaucyclable.geojson"></script>
-    <script src="Data/vdq-voiepublique.geojson"></script>
-    <script src="Data/ZoneFlexibus.geojson"></script>
-    <script src="https://cdn.jsdelivr.net/npm/ol@v9.2.4/dist/ol.js"></script>
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 </head>
-<body>
-    <div id="map" class="map"></div>
-    <script type="text/javascript"> // le code suivant est en javacript
-
-    const map = L.map('map').setView([46.864535860948884, -71.30853729691964], 11); // Vue sur la ville de Québec par défaut
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-    }).addTo(map);
-
-    L.geoJSON(Arrets, {
-        // filter: function(feature, layer) {
-        //     return feature.properties.ACCESSIBLE == "Oui"; // this property is not documented therefore i don't not what accessible means
-        // },
-
-        pointToLayer(feature, latlng) {
-			return L.circleMarker(latlng, {
-				radius: 3,
-				fillColor: '#ff0000',
-				color: '#000',
-				weight: 1,
-				opacity: 1,
-				fillOpacity: 0.6
-			});
-		},
-
-        onEachFeature(feature, layer) {
-                if (feature.properties && feature.properties.ARRET) {
-                    layer.bindPopup("Arrêt de bus : " + feature.properties.ARRET.toString());
-            }
-        }
-    }).addTo(map);
-    
-    L.geoJSON(aVelo, {
-        pointToLayer(feature, latlng) {
-			return L.circleMarker(latlng, { // mettre icône de vélo?
-				radius: 3,
-				fillColor: '#0cdcb4',
-				color: '#000',
-				weight: 1,
-				opacity: 1,
-				fillOpacity: 0.6
-			});
-		},
-
-        onEachFeature(feature, layer) {
-                if (feature.properties && feature.properties.Capacité) {
-                    layer.bindPopup("Station àVélo : " + parseInt(feature.properties.Capacité).toString() + " ancrages");
-            }
-        }
-    }).addTo(map);
-
-    L.geoJSON(Parcours, {
-        style: function(feature) {
-            if (feature.properties && feature.properties.Type) {
-                if (feature.properties.Type == "Régulier") {
-                    return {
-                        color: '#003878',
-                        weight: 4,
-                        opacity: 1
-                    };
-                }
-                else if (feature.properties.Type == "Métrobus") {
-                    return {
-                        color: '#7ea95f',
-                        weight: 4,
-                        opacity: 1
-                    };
-                }
-                else if (feature.properties.Type.includes("Express")) {
-                    return {
-                        color: '#e22b13',
-                        weight: 4,
-                        opacity: 1
-                    };
-                }
-                else if (feature.properties.Type == "Couche-Tard") {
-                    return {
-                        color: '##222221',
-                        weight: 4,
-                        opacity: 1
-                    };
-                }
-                else {
-                    return {
-                        color: '#b3b3b3',
-                        weight: 4,
-                        opacity: 1
-                    };
-                }
-            }
-        },
-
-        onEachFeature(feature, layer) {
-                if (feature.properties && feature.properties.Nom) {
-                    layer.bindPopup("Parcours de bus : " + feature.properties.Nom);
-            }
-        }
-    }).addTo(map);
-
-    // L.geoJSON(vdq_infrastructurepietonne).addTo(map);
-    // L.geoJSON(vdq_reseaucyclable).addTo(map);
-    // L.geoJSON(vdq_voiepublique).addTo(map);
-    // L.geoJSON(ZoneFlexibus).addTo(map); //#ffc629
-
-
-    </script>
+<body style="display: grid; justify-content: center">
+    <h2 style="text-align: center">
+        Add map in html using iframe</h2>
+    <iframe src="https://fancyguitarist.github.io/personalycarte.github.io/carte.html" width="600" height="450" style="border: 0" allowfullscreen=""
+        loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
 </body>
 </html>
