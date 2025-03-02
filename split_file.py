@@ -23,4 +23,5 @@ def merge_files(input_files, output_file): # not tested yet !!
 
 # Exemple d'utilisation
 if __name__ == "__main__":
-    split_file("Data\RTC\googletransit\stop_times.txt", "Data\RTC\googletransit\stop_times")
+    #split_file("Data\RTC\googletransit\stop_times.txt", "Data\RTC\googletransit\stop_times")
+    pass
