@@ -49,8 +49,9 @@
             width: 300px;
             height: 700px;
             flex-direction: column;
+            justify-content: space-around;
             align-items: center;
-            border: 1px solid #333;
+            border: 1px transparent;
             gap: 10px;
             background-color: #F7F7F7;
         }
@@ -62,7 +63,7 @@
             flex-direction: row;
             align-items: center;
             justify-content: space-around;
-            border: 1px solid #333;
+            border: 1px transparent;
             gap: 20px;
         }
 
@@ -95,20 +96,66 @@
                 <img src="icons/bus.png" alt="Bus" width="50" height="50">
                 <form action="bus_time" method="post">
                     <label>
-                        <input type="text" name="bus" placeholder="Temps du Trajet de Bus" id="timeBus" value="00:10">
+                        <input type="text" name="bus" placeholder="Temps du trajet de bus" id="timeBus" value="00:10">
                     </label>
                 </form>
                 <div class="time-buttons-group">
-                    <button onclick="adjustTime(5)">
+                    <button onclick="adjustTime('timeBus',5)">
                         <img src="icons/up.png" width="20" height="20">
                     </button>
-                    <button onclick="adjustTime(-5)">
+                    <button onclick="adjustTime('timeBus', -5)">
                         <img src="icons/down.png" width="20" height="20">
                     </button>
                 </div>
             </div>
-            <div class="transportation-group">2B</div>
-            <div class="transportation-group">2C</div>
+            <div class="transportation-group">
+                <img src="icons/car.png" alt="Car" width="50" height="50">
+                <form action="car_time" method="post">
+                    <label>
+                        <input type="text" name="car" placeholder="Temps du trajet d'auto" id="timeCar" value="00:10">
+                    </label>
+                </form>
+                <div class="time-buttons-group">
+                    <button onclick="adjustTime('timeCar',5)">
+                        <img src="icons/up.png" width="20" height="20">
+                    </button>
+                    <button onclick="adjustTime('timeCar', -5)">
+                        <img src="icons/down.png" width="20" height="20">
+                    </button>
+                </div>
+            </div>
+            <div class="transportation-group">
+                <img src="icons/bicycle.png" alt="Bike" width="50" height="50">
+                <form action="bike_time" method="post">
+                    <label>
+                        <input type="text" name="bike" placeholder="Temps du trajet de vélo" id="timeBike" value="00:10">
+                    </label>
+                </form>
+                <div class="time-buttons-group">
+                    <button onclick="adjustTime('timeBike',5)">
+                        <img src="icons/up.png" width="20" height="20">
+                    </button>
+                    <button onclick="adjustTime('timeBike', -5)">
+                        <img src="icons/down.png" width="20" height="20">
+                    </button>
+                </div>
+            </div>
+            <div class="transportation-group">
+                <img src="icons/hiker.png" alt="Walk" width="50" height="50">
+                <form action="walk_time" method="post">
+                    <label>
+                        <input type="text" name="walk" placeholder="Temps du trajet à pieds" id="timeWalk" value="00:10">
+                    </label>
+                </form>
+                <div class="time-buttons-group">
+                    <button onclick="adjustTime('timeWalk',5)">
+                        <img src="icons/up.png" width="20" height="20">
+                    </button>
+                    <button onclick="adjustTime('timeWalk', -5)">
+                        <img src="icons/down.png" width="20" height="20">
+                    </button>
+                </div>
+            </div>
         </div>
 
         <div class="group">
@@ -131,8 +178,8 @@
     </div>
 
     <script>
-        function adjustTime(minutes) {
-            let input = document.getElementById("timeBus");
+        function adjustTime(inputId, minutes) {
+            let input = document.getElementById(inputId);
             let currentTime = input.value;
 
             if (!currentTime) return; // Prevent errors if the input is empty
