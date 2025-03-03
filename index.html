@@ -8,8 +8,15 @@
 <body style="display: grid; justify-content: center">
     <h2 style="text-align: center">
         Add map in html using iframe</h2>
-    <iframe src="https://fancyguitarist.github.io/personalycarte.github.io/carte.html" width="600" height="450" style="border: 0" allowfullscreen=""
+    <iframe src="https://fancyguitarist.github.io/personalycarte.github.io/carte.html" width="600" height="500" style="border: 0" allowfullscreen=""
         loading="lazy" referrerpolicy="no-referrer-when-downgrade">
     </iframe>
+    <form action="start_address" method="post">
+        <label for="start_address">Start address:</label><br>
+        <input type="text" id="start_address" name="start_address"><br>
+        <label for="end_address">End address:</label><br>
+        <input type="text" id="end_address" name="end_address"><br><br>
+        <input type="submit" value="Submit">
+    </form>
 </body>
 </html>
