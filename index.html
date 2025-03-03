@@ -4,19 +4,82 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PersonalyCarte</title>
+    <style>
+        .container {
+            display: flex; /* Align groups horizontally */
+            justify-content: center; /* Center all groupings horizontally */
+            gap: 20px; /* Space between groups */
+        }
+
+        .group {
+            display: flex; /* Align objects vertically */
+            flex-direction: column;
+            align-items: center; /* Center objects within the group */
+            gap: 10px; /* Space between objects in a group */
+        }
+
+        .object {
+            width: 100px;
+            height: 50px;
+            background-color: lightblue;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #333;
+        }
+
+        .map-object {
+            width: 600px;
+            height: 500px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #333;
+        }
+
+        .map-title {
+            text-align: center;
+            width: 600px;
+            height: 70px;
+        }
+
+        .logo-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        }
+    </style>
 </head>
 <body style="display: grid; justify-content: center">
-    <h2 style="text-align: center">
-        Add map in html using iframe</h2>
-    <iframe src="https://fancyguitarist.github.io/personalycarte.github.io/carte.html" width="600" height="500" style="border: 0" allowfullscreen=""
-        loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-    </iframe>
-    <form action="start_address" method="post">
-        <label for="start_address">Start address:</label><br>
-        <input type="text" id="start_address" name="start_address"><br>
-        <label for="end_address">End address:</label><br>
-        <input type="text" id="end_address" name="end_address"><br><br>
-        <input type="submit" value="Submit">
-    </form>
+
+    <div class="container">
+
+        <div class="group">
+            <div class="object">2A</div>
+            <div class="object">2B</div>
+            <div class="object">2C</div>
+        </div>
+
+        <div class="group">
+            <div class="logo-container">
+                <h2 style="text-align: center">
+                    PersonalyCarte</h2>
+                <img src="https://fancyguitarist.github.io/personalycarte.github.io/PersonalyCarteLogo.png" alt="Logo" width="50" height="50">
+            </div>
+            <div class="map-object">
+                <iframe src="https://fancyguitarist.github.io/personalycarte.github.io/carte.html" width="600" height="500" style="border: 0" allowfullscreen=""
+                loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
+            </div>
+        </div>
+
+        <div class="group">
+            <div class="object">3A</div>
+            <div class="object">3B</div>
+            <div class="object">3C</div>
+        </div>
+    </div>
+
 </body>
 </html>
