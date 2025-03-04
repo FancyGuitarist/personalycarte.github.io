@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-GB">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -98,7 +98,7 @@
                 <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/bus.png" alt="Bus" width="50" height="50">
                 <form action="bus_time" method="post">
                     <label>
-                        <input type="text" name="bus" placeholder="Temps du trajet de bus" id="timeBus" value="00:10">
+                        <input type="text" name="bus" placeholder="HH:MM" id="timeBus" value="00:00" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
                     </label>
                 </form>
                 <div class="time-buttons-group">
@@ -114,7 +114,7 @@
                 <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/car.png" alt="Car" width="50" height="50">
                 <form action="car_time" method="post">
                     <label>
-                        <input type="text" name="car" placeholder="Temps du trajet d'auto" id="timeCar" value="00:10">
+                        <input type="text" name="car" placeholder="Temps du trajet d'auto" id="timeCar" value="00:00" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
                     </label>
                 </form>
                 <div class="time-buttons-group">
@@ -130,7 +130,7 @@
                 <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/bicycle.png" alt="Bike" width="50" height="50">
                 <form action="bike_time" method="post">
                     <label>
-                        <input type="text" name="bike" placeholder="Temps du trajet de vélo" id="timeBike" value="00:10">
+                        <input type="text" name="bike" placeholder="Temps du trajet de vélo" id="timeBike" value="00:00" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
                     </label>
                 </form>
                 <div class="time-buttons-group">
@@ -146,7 +146,7 @@
                 <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/hiker.png" alt="Walk" width="50" height="50">
                 <form action="walk_time" method="post">
                     <label>
-                        <input type="text" name="walk" placeholder="Temps du trajet à pieds" id="timeWalk" value="00:10">
+                        <input type="text" name="walk" placeholder="Temps du trajet à pieds" id="timeWalk" value="00:00" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
                     </label>
                 </form>
                 <div class="time-buttons-group">
