@@ -44,6 +44,25 @@
         layers: [osm, bus]
     });
  
+    // Add a click event handler to the map
+    map.on('click', function(e) {
+        // Get the mouse click event object
+        var mouseEvent = e.originalEvent;
+
+        // Use mouseEventToContainerPoint to get container point
+        var containerPoint = map.mouseEventToContainerPoint(mouseEvent);
+        var geoCoords = map.containerPointToLatLng(containerPoint);
+
+        // Get the latitude and longitude coordinates within the container
+        var lat = geoCoords.lat;
+        var lng = geoCoords.lng;
+
+        console.log("Latitude:", lat, "Longitude:", lng);
+        // You can use these coordinates for further actions, like displaying an element at that location.
+
+        return [lat, lng];
+    });
+
     // const sat = L.tileLayer.bing('Ai3-e45amfucPxepiUfo-ENEXreXqZvPCu3mJ9PaGfQeg-6RafUbA3g3bUVCiNQo', {
     //     maxZoom: 19,
     // }); // Does not work, need more time to investigate or find another solution
