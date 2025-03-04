@@ -96,75 +96,60 @@
 <body style="display: grid; justify-content: center; background-color: #7BBB91">
 
     <div class="container">
-
-        <div class="transportations-container">
-            <h2 style="font-family: Amaranth,serif; color: #0D0D0D">Temps des trajets</h2>
-            <div class="transportation-group">
-                <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/bus.png" alt="Bus" width="50" height="50">
-                <form action="bus_time" method="post">
-                    <label>
-                        <input type="text" name="bus" placeholder="HH:MM" id="timeBus" value="00:00" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
-                    </label>
-                </form>
-                <div class="time-buttons-group">
-                    <button onclick="adjustTime('timeBus',5)">
-                        <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/up.png" width="20" height="20">
-                    </button>
-                    <button onclick="adjustTime('timeBus', -5)">
-                        <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/down.png" width="20" height="20">
-                    </button>
+        <form action="/submit_times" method="post" id="timeForm">
+            <div class="transportations-container">
+                <h2 style="font-family: Amaranth,serif; color: #0D0D0D">Temps des trajets</h2>
+                <div class="transportation-group">
+                    <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/bus.png" alt="Bus" width="50" height="50">
+                    <input type="text" name="bus" placeholder="HH:MM" id="timeBus" value="{{ times['bus'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
+                    <div class="time-buttons-group">
+                        <button type="button" onclick="adjustTime('timeBus',5)">
+                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/up.png" width="20" height="20">
+                        </button>
+                        <button type="button" onclick="adjustTime('timeBus', -5)">
+                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/down.png" width="20" height="20">
+                        </button>
+                    </div>
                 </div>
-            </div>
-            <div class="transportation-group">
-                <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/car.png" alt="Car" width="50" height="50">
-                <form action="car_time" method="post">
-                    <label>
-                        <input type="text" name="car" placeholder="HH:MM" id="timeCar" value="00:00" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
-                    </label>
-                </form>
-                <div class="time-buttons-group">
-                    <button onclick="adjustTime('timeCar',5)">
-                        <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/up.png" width="20" height="20">
-                    </button>
-                    <button onclick="adjustTime('timeCar', -5)">
-                        <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/down.png" width="20" height="20">
-                    </button>
+                <div class="transportation-group">
+                    <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/car.png" alt="Car" width="50" height="50">
+                    <input type="text" name="car" placeholder="HH:MM" id="timeCar" value="{{ times['car'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
+                    <div class="time-buttons-group">
+                        <button type="button" onclick="adjustTime('timeCar',5)">
+                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/up.png" width="20" height="20">
+                        </button>
+                        <button type="button" onclick="adjustTime('timeCar', -5)">
+                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/down.png" width="20" height="20">
+                        </button>
+                    </div>
                 </div>
-            </div>
-            <div class="transportation-group">
-                <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/bicycle.png" alt="Bike" width="50" height="50">
-                <form action="bike_time" method="post">
-                    <label>
-                        <input type="text" name="bike" placeholder="HH:MM" id="timeBike" value="00:00" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
-                    </label>
-                </form>
-                <div class="time-buttons-group">
-                    <button onclick="adjustTime('timeBike',5)">
-                        <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/up.png" width="20" height="20">
-                    </button>
-                    <button onclick="adjustTime('timeBike', -5)">
-                        <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/down.png" width="20" height="20">
-                    </button>
+                <div class="transportation-group">
+                    <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/bicycle.png" alt="Bike" width="50" height="50">
+                    <input type="text" name="bike" placeholder="HH:MM" id="timeBike" value="{{ times['bike'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
+                    <div class="time-buttons-group">
+                        <button type="button" onclick="adjustTime('timeBike',5)">
+                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/up.png" width="20" height="20">
+                        </button>
+                        <button type="button" onclick="adjustTime('timeBike', -5)">
+                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/down.png" width="20" height="20">
+                        </button>
+                    </div>
                 </div>
-            </div>
-            <div class="transportation-group">
-                <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/hiker.png" alt="Walk" width="50" height="50">
-                <form action="walk_time" method="post">
-                    <label>
-                        <input type="text" name="walk" placeholder="HH:MM" id="timeWalk" value="00:00" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
-                    </label>
-                </form>
-                <div class="time-buttons-group">
-                    <button onclick="adjustTime('timeWalk',5)">
-                        <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/up.png" width="20" height="20">
-                    </button>
-                    <button onclick="adjustTime('timeWalk', -5)">
-                        <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/down.png" width="20" height="20">
-                    </button>
+                <div class="transportation-group">
+                    <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/hiker.png" alt="Walk" width="50" height="50">
+                    <input type="text" name="walk" placeholder="HH:MM" id="timeWalk" value="{{ times['walk'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
+                    <div class="time-buttons-group">
+                        <button type="button" onclick="adjustTime('timeWalk',5)">
+                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/up.png" width="20" height="20">
+                        </button>
+                        <button type="button" onclick="adjustTime('timeWalk', -5)">
+                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/down.png" width="20" height="20">
+                        </button>
+                    </div>
                 </div>
+                <button id="submitButton" type="submit" style="width: 100px" disabled>Submit</button>
             </div>
-            <button id="submitButton" type="submit" style="width: 100px" disabled>Submit</button>
-        </div>
+        </form>
 
         <div class="group">
             <div class="logo-container">
