@@ -160,7 +160,7 @@
                 <h2 style="font-family: Amaranth,serif; color: #F3E8CB">PersonalyCarte</h2>
             </div>
             <div class="map-object">
-                <iframe src="https://fancyguitarist.github.io/personalycarte.github.io/carte.html" width="600" height="500" style="border: 0" allowfullscreen=""
+                <iframe src="{{ url_for('map_page') }}" width="600" height="500" style="border: 0" allowfullscreen=""
                 loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                 </iframe>
             </div>
@@ -226,8 +226,10 @@
                 console.log("Retrieved Coordinates:", coords.lat, coords.lng);
                 document.getElementById("coordinatesDisplay").innerText =
                     `Latitude: ${coords.lat}, Longitude: ${coords.lng}`;
+            } else {
+                console.warn("No coordinates found in localStorage yet.");
             }
-        }, 1000); // Check for updates every second
+        }, 1000); // Check every second
     }
 
     function stopTracking() {
