@@ -57,10 +57,8 @@
         var lat = geoCoords.lat;
         var lng = geoCoords.lng;
 
-        console.log("Latitude:", lat, "Longitude:", lng);
         // You can use these coordinates for further actions, like displaying an element at that location.
-
-        return [lat, lng];
+        localStorage.setItem("mapCoords", JSON.stringify({ lat: lat, lng: lng }));
     });
 
     // const sat = L.tileLayer.bing('Ai3-e45amfucPxepiUfo-ENEXreXqZvPCu3mJ9PaGfQeg-6RafUbA3g3bUVCiNQo', {
