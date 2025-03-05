@@ -340,7 +340,7 @@
                 let coords = JSON.parse(storedCoords);
                 console.log("Retrieved Coordinates:", coords.lat, coords.lng);
                 document.getElementById(inputID).innerText =
-                    `Latitude: ${coords.lat}, Longitude: ${coords.lng}`;
+                    `Latitude: ${coords.lat}\n Longitude: ${coords.lng}`;
                 if (inputID === "coordinatesDisplayDepart") {
                     document.getElementById("toggleTrackingArrive").disabled = true;
                 } else {
@@ -358,7 +358,7 @@
         if (storedCoords) {
             let coords = JSON.parse(storedCoords);
             document.getElementById(inputID).innerText =
-                `Latitude: ${coords.lat}, Longitude: ${coords.lng}`;
+                `Latitude: ${coords.lat}\n Longitude: ${coords.lng}`;
         } else {
             console.warn("No coordinates found in localStorage yet.");
         }
