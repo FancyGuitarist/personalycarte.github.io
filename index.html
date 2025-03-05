@@ -147,6 +147,9 @@
                         </button>
                     </div>
                 </div>
+                <label for="toggleTracking">Track Map Clicks:</label>
+                <input type="checkbox" id="toggleTracking">
+                <div id="coordinatesDisplay">Waiting for map click...</div>
                 <button id="submitButton" type="submit" style="width: 100px" disabled>Submit</button>
             </div>
         </form>
@@ -202,6 +205,36 @@
     document.querySelectorAll("input[pattern]").forEach(input => {
         input.addEventListener("input", validateForm);
     });
+
+    let trackingInterval = null;
+
+    document.getElementById("toggleTracking").addEventListener("change", function() {
+        if (this.checked) {
+            console.log("Tracking Enabled");
+            startTracking();
+        } else {
+            console.log("Tracking Disabled");
+            stopTracking();
+        }
+    });
+
+    function startTracking() {
+        trackingInterval = setInterval(() => {
+            let storedCoords = localStorage.getItem("mapCoords");
+            if (storedCoords) {
+                let coords = JSON.parse(storedCoords);
+                console.log("Retrieved Coordinates:", coords.lat, coords.lng);
+                document.getElementById("coordinatesDisplay").innerText =
+                    `Latitude: ${coords.lat}, Longitude: ${coords.lng}`;
+            }
+        }, 1000); // Check for updates every second
+    }
+
+    function stopTracking() {
+        clearInterval(trackingInterval);
+        document.getElementById("coordinatesDisplay").innerText = "Tracking Stopped";
+    }
+
     </script>
 
 </body>
