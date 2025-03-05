@@ -18,16 +18,6 @@
             gap: 10px; /* Space between objects in a group */
         }
 
-        .object {
-            width: 100px;
-            height: 50px;
-            background-color: lightblue;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border: 1px solid #333;
-        }
-
         .map-object {
             width: 600px;
             height: 500px;
@@ -91,6 +81,61 @@
             height: 30px;
             text-align: center;
         }
+        .hidden-checkbox {
+            display: none;
+        }
+
+        .toggle-label.bus {
+            width: 50px;
+            height: 50px;
+            background: url("https://fancyguitarist.github.io/personalycarte.github.io/icons/bus_bw.png") no-repeat center center;
+            background-size: contain;
+            cursor: pointer;
+        }
+
+        .hidden-checkbox:checked + .toggle-label.bus {
+            background: url("https://fancyguitarist.github.io/personalycarte.github.io/icons/bus.png") no-repeat center center;
+            background-size: contain;
+        }
+
+        .toggle-label.car {
+            width: 50px;
+            height: 50px;
+            background: url("https://fancyguitarist.github.io/personalycarte.github.io/icons/car_bw.png") no-repeat center center;
+            background-size: contain;
+            cursor: pointer;
+        }
+
+        .hidden-checkbox:checked + .toggle-label.car {
+            background: url("https://fancyguitarist.github.io/personalycarte.github.io/icons/car.png") no-repeat center center;
+            background-size: contain;
+        }
+
+        .toggle-label.walk {
+            width: 50px;
+            height: 50px;
+            background: url("https://fancyguitarist.github.io/personalycarte.github.io/icons/walk_bw.png") no-repeat center center;
+            background-size: contain;
+            cursor: pointer;
+        }
+
+        .hidden-checkbox:checked + .toggle-label.walk {
+            background: url("https://fancyguitarist.github.io/personalycarte.github.io/icons/walk.png") no-repeat center center;
+            background-size: contain;
+        }
+
+        .toggle-label.bike {
+            width: 50px;
+            height: 50px;
+            background: url("https://fancyguitarist.github.io/personalycarte.github.io/icons/bike_bw.png") no-repeat center center;
+            background-size: contain;
+            cursor: pointer;
+        }
+
+        .hidden-checkbox:checked + .toggle-label.bike {
+            background: url("https://fancyguitarist.github.io/personalycarte.github.io/icons/bike.png") no-repeat center center;
+            background-size: contain;
+        }
     </style>
 </head>
 <body style="display: grid; justify-content: center; background-color: #7BBB91">
@@ -100,7 +145,8 @@
             <div class="transportations-container">
                 <h2 style="font-family: Amaranth,serif; color: #0D0D0D">Temps des trajets</h2>
                 <div class="transportation-group">
-                    <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/bus.png" alt="Bus" width="50" height="50">
+                    <input type="checkbox" id="toggleBus" class="hidden-checkbox">
+                    <label for="toggleBus" class="toggle-label bus"></label>
                     <input type="text" name="bus" placeholder="HH:MM" id="timeBus" value="{{ times['bus'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
                     <div class="time-buttons-group">
                         <button type="button" onclick="adjustTime('timeBus',5)">
