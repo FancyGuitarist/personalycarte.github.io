@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-GB">
+<html lang="en-GB" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -45,6 +45,40 @@
             border: 1px transparent;
             gap: 10px;
             background-color: #F7F7F7;
+        }
+
+        .coordinates-container {
+            display: flex;
+            width: 600px;
+            height: 200px;
+            flex-direction: column;
+            justify-content: space-around;
+            border-radius: 15px;
+            align-items: center;
+            border: 1px transparent;
+            gap: 10px;
+            background-color: #F7F7F7;
+        }
+
+        .coordinates-group {
+            display: flex;
+            width: 500px;
+            height: 75px;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-around;
+            border: 1px transparent;
+            gap: 10px;
+        }
+
+        .coordinates-display {
+            width: 250px;
+            height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #333;
+            border-radius: 5px;
         }
         
         .transportation-group {
@@ -136,6 +170,34 @@
             background: url("https://fancyguitarist.github.io/personalycarte.github.io/icons/bike.png") no-repeat center center;
             background-size: contain;
         }
+
+        .up-button {
+            width: 30px;
+            height: 30px;
+            background: url("https://fancyguitarist.github.io/personalycarte.github.io/icons/up.png") no-repeat center center;
+            background-size: contain;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .up-button:disabled {
+            cursor: not-allowed;
+            background: #cccccc url("https://fancyguitarist.github.io/personalycarte.github.io/icons/up_disabled.png") no-repeat center center;
+        }
+
+        .down-button {
+            width: 30px;
+            height: 30px;
+            background: url("https://fancyguitarist.github.io/personalycarte.github.io/icons/down.png") no-repeat center center;
+            background-size: contain;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .down-button:disabled {
+            cursor: not-allowed;
+            background: #cccccc url("https://fancyguitarist.github.io/personalycarte.github.io/icons/down_disabled.png") no-repeat center center;
+        }
     </style>
 </head>
 <body style="display: grid; justify-content: center; background-color: #7BBB91">
@@ -145,57 +207,41 @@
             <div class="transportations-container">
                 <h2 style="font-family: Amaranth,serif; color: #0D0D0D">Temps des trajets</h2>
                 <div class="transportation-group">
+                    <input type="checkbox" id="toggleCar" class="hidden-checkbox" checked>
+                    <label for="toggleCar" class="toggle-label car"></label>
+                    <input type="text" name="car" placeholder="HH:MM" id="timeCar" value="{{ times['car'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
+                    <div class="time-buttons-group">
+                        <button type="button" onclick="adjustTime('timeCar',5)" class="up-button"></button>
+                        <button type="button" onclick="adjustTime('timeCar', -5)" class="down-button"></button>
+                    </div>
+                </div>
+                <div class="transportation-group">
                     <input type="checkbox" id="toggleBus" class="hidden-checkbox">
                     <label for="toggleBus" class="toggle-label bus"></label>
                     <input type="text" name="bus" placeholder="HH:MM" id="timeBus" value="{{ times['bus'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
                     <div class="time-buttons-group">
-                        <button type="button" onclick="adjustTime('timeBus',5)">
-                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/up.png" width="20" height="20">
-                        </button>
-                        <button type="button" onclick="adjustTime('timeBus', -5)">
-                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/down.png" width="20" height="20">
-                        </button>
+                        <button type="button" onclick="adjustTime('timeBus',5)" class="up-button"></button>
+                        <button type="button" onclick="adjustTime('timeBus', -5)" class="down-button"></button>
                     </div>
                 </div>
                 <div class="transportation-group">
-                    <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/car.png" alt="Car" width="50" height="50">
-                    <input type="text" name="car" placeholder="HH:MM" id="timeCar" value="{{ times['car'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
-                    <div class="time-buttons-group">
-                        <button type="button" onclick="adjustTime('timeCar',5)">
-                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/up.png" width="20" height="20">
-                        </button>
-                        <button type="button" onclick="adjustTime('timeCar', -5)">
-                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/down.png" width="20" height="20">
-                        </button>
-                    </div>
-                </div>
-                <div class="transportation-group">
-                    <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/bicycle.png" alt="Bike" width="50" height="50">
+                    <input type="checkbox" id="toggleBike" class="hidden-checkbox">
+                    <label for="toggleBike" class="toggle-label bike"></label>
                     <input type="text" name="bike" placeholder="HH:MM" id="timeBike" value="{{ times['bike'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
                     <div class="time-buttons-group">
-                        <button type="button" onclick="adjustTime('timeBike',5)">
-                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/up.png" width="20" height="20">
-                        </button>
-                        <button type="button" onclick="adjustTime('timeBike', -5)">
-                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/down.png" width="20" height="20">
-                        </button>
+                        <button type="button" onclick="adjustTime('timeBike',5)" class="up-button"></button>
+                        <button type="button" onclick="adjustTime('timeBike', -5)" class="down-button"></button>
                     </div>
                 </div>
                 <div class="transportation-group">
-                    <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/hiker.png" alt="Walk" width="50" height="50">
+                    <input type="checkbox" id="toggleWalk" class="hidden-checkbox">
+                    <label for="toggleWalk" class="toggle-label walk"></label>
                     <input type="text" name="walk" placeholder="HH:MM" id="timeWalk" value="{{ times['walk'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
                     <div class="time-buttons-group">
-                        <button type="button" onclick="adjustTime('timeWalk',5)">
-                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/up.png" width="20" height="20">
-                        </button>
-                        <button type="button" onclick="adjustTime('timeWalk', -5)">
-                            <img src="https://fancyguitarist.github.io/personalycarte.github.io/icons/down.png" width="20" height="20">
-                        </button>
+                        <button type="button" onclick="adjustTime('timeWalk',5)" class="up-button"></button>
+                        <button type="button" onclick="adjustTime('timeWalk', -5)" class="down-button"></button>
                     </div>
                 </div>
-                <label for="toggleTracking">Track Map Clicks:</label>
-                <input type="checkbox" id="toggleTracking">
-                <div id="coordinatesDisplay">Waiting for map click...</div>
                 <button id="submitButton" type="submit" style="width: 100px" disabled>Submit</button>
             </div>
         </form>
@@ -209,6 +255,19 @@
                 <iframe src="{{ url_for('map_page') }}" width="600" height="500" style="border: 0" allowfullscreen=""
                 loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                 </iframe>
+            </div>
+            <div class="coordinates-container">
+                <h2 style="font-family: Amaranth,serif; color: #0D0D0D">Coordonnées</h2>
+                <div class="coordinates-group">
+                    <div id="DepartLabel">Départ</div>
+                    <input type="checkbox" id="toggleTrackingDepart">
+                    <div id="coordinatesDisplayDepart" class="coordinates-display">Choisir Coordonnées</div>
+                </div>
+                <div class="coordinates-group">
+                    <div id="ArriveLabel">Arrivée</div>
+                    <input type="checkbox" id="toggleTrackingArrive">
+                    <div id="coordinatesDisplayArrive" class="coordinates-display">Choisir Coordonnées</div>
+                </div>
             </div>
         </div>
 
@@ -254,33 +313,60 @@
 
     let trackingInterval = null;
 
-    document.getElementById("toggleTracking").addEventListener("change", function() {
+    document.getElementById("toggleTrackingDepart").addEventListener("change", function() {
         if (this.checked) {
             console.log("Tracking Enabled");
-            startTracking();
+            startTracking("coordinatesDisplayDepart");
         } else {
             console.log("Tracking Disabled");
-            stopTracking();
+            stopTracking("coordinatesDisplayDepart");
         }
     });
 
-    function startTracking() {
+    document.getElementById("toggleTrackingArrive").addEventListener("change", function() {
+        if (this.checked) {
+            console.log("Tracking Enabled");
+            startTracking("coordinatesDisplayArrive");
+        } else {
+            console.log("Tracking Disabled");
+            stopTracking("coordinatesDisplayArrive");
+        }
+    });
+
+    function startTracking(inputID) {
         trackingInterval = setInterval(() => {
             let storedCoords = localStorage.getItem("mapCoords");
             if (storedCoords) {
                 let coords = JSON.parse(storedCoords);
                 console.log("Retrieved Coordinates:", coords.lat, coords.lng);
-                document.getElementById("coordinatesDisplay").innerText =
+                document.getElementById(inputID).innerText =
                     `Latitude: ${coords.lat}, Longitude: ${coords.lng}`;
+                if (inputID === "coordinatesDisplayDepart") {
+                    document.getElementById("toggleTrackingArrive").disabled = true;
+                } else {
+                    document.getElementById("toggleTrackingDepart").disabled = true;
+                }
             } else {
                 console.warn("No coordinates found in localStorage yet.");
             }
-        }, 1000); // Check every second
+        }, 100); // Check every tenth of a second
     }
 
-    function stopTracking() {
+    function stopTracking(inputID) {
         clearInterval(trackingInterval);
-        document.getElementById("coordinatesDisplay").innerText = "Tracking Stopped";
+        let storedCoords = localStorage.getItem("mapCoords");
+        if (storedCoords) {
+            let coords = JSON.parse(storedCoords);
+            document.getElementById(inputID).innerText =
+                `Latitude: ${coords.lat}, Longitude: ${coords.lng}`;
+        } else {
+            console.warn("No coordinates found in localStorage yet.");
+        }
+        if (inputID === "coordinatesDisplayDepart") {
+            document.getElementById("toggleTrackingArrive").disabled = false;
+        } else {
+            document.getElementById("toggleTrackingDepart").disabled = false;
+        }
     }
 
     </script>

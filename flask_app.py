@@ -36,6 +36,7 @@ def home():
         times = init_times()
     return render_template("index.html", times=times)  # Load the HTML form
 
+
 @app.route("/map")
 def map_page():
     return render_template("carte.html")
