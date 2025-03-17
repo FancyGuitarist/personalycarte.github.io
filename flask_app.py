@@ -39,7 +39,7 @@ def home():
 
 @app.route("/map")
 def map_page():
-    return render_template("carte.html")
+    return render_template("carte_first.html")
 
 
 @app.route("/submit_times", methods=["POST"])
