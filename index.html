@@ -203,11 +203,12 @@
 <body style="display: grid; justify-content: center; background-color: #7BBB91">
 
     <div class="container">
-        <form action="/submit_times" method="post" id="timeForm">
+        <form action="/submit_inputs" method="post" id="timeForm">
             <div class="transportations-container">
                 <h2 style="font-family: Amaranth,serif; color: #0D0D0D">Temps des trajets</h2>
                 <div class="transportation-group">
-                    <input type="checkbox" id="toggleCar" class="hidden-checkbox" checked>
+                    <input type="checkbox" name="toggleCar" id="toggleCar" class="hidden-checkbox"
+                           {% if toggle_states['toggleCar'] %} checked {% endif %}>
                     <label for="toggleCar" class="toggle-label car"></label>
                     <input type="text" name="car" placeholder="HH:MM" id="timeCar" value="{{ times['car'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
                     <div class="time-buttons-group">
@@ -216,7 +217,8 @@
                     </div>
                 </div>
                 <div class="transportation-group">
-                    <input type="checkbox" id="toggleBus" class="hidden-checkbox">
+                    <input type="checkbox" name="toggleBus" id="toggleBus" class="hidden-checkbox"
+                    {% if toggle_states['toggleBus'] %} checked {% endif %}>
                     <label for="toggleBus" class="toggle-label bus"></label>
                     <input type="text" name="bus" placeholder="HH:MM" id="timeBus" value="{{ times['bus'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
                     <div class="time-buttons-group">
@@ -225,7 +227,8 @@
                     </div>
                 </div>
                 <div class="transportation-group">
-                    <input type="checkbox" id="toggleBike" class="hidden-checkbox">
+                    <input type="checkbox" name="toggleBike" id="toggleBike" class="hidden-checkbox"
+                    {% if toggle_states['toggleBike'] %} checked {% endif %}>
                     <label for="toggleBike" class="toggle-label bike"></label>
                     <input type="text" name="bike" placeholder="HH:MM" id="timeBike" value="{{ times['bike'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
                     <div class="time-buttons-group">
@@ -234,7 +237,8 @@
                     </div>
                 </div>
                 <div class="transportation-group">
-                    <input type="checkbox" id="toggleWalk" class="hidden-checkbox">
+                    <input type="checkbox" name="toggleWalk" id="toggleWalk" class="hidden-checkbox"
+                    {% if toggle_states['toggleWalk'] %} checked {% endif %}>
                     <label for="toggleWalk" class="toggle-label walk"></label>
                     <input type="text" name="walk" placeholder="HH:MM" id="timeWalk" value="{{ times['walk'] }}" pattern="^([01]\d|2[0-3]):[0-5]\d$" required>
                     <div class="time-buttons-group">
