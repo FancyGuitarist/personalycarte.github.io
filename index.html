@@ -202,8 +202,8 @@
 </head>
 <body style="display: grid; justify-content: center; background-color: #7BBB91">
 
-    <div class="container">
-        <form action="/submit_inputs" method="post" id="timeForm">
+    <form action="/submit_inputs" method="post" id="inputForm">
+        <div class="container">
             <div class="transportations-container">
                 <h2 style="font-family: Amaranth,serif; color: #0D0D0D">Temps des trajets</h2>
                 <div class="transportation-group">
@@ -248,7 +248,7 @@
                 </div>
                 <button id="submitButton" type="submit" style="width: 100px" disabled>Submit</button>
             </div>
-        </form>
+        
 
         <div class="group">
             <div class="logo-container">
@@ -266,16 +266,18 @@
                     <div id="DepartLabel">Départ</div>
                     <input type="checkbox" id="toggleTrackingDepart">
                     <div id="coordinatesDisplayDepart" class="coordinates-display">Choisir Coordonnées</div>
+                    <input type="hidden" name="coords_depart" id="coordinatesInputDepart">
                 </div>
                 <div class="coordinates-group">
                     <div id="ArriveLabel">Arrivée</div>
                     <input type="checkbox" id="toggleTrackingArrive">
                     <div id="coordinatesDisplayArrive" class="coordinates-display">Choisir Coordonnées</div>
+                    <input type="hidden" name="coords_arrival" id="coordinatesInputArrival">
                 </div>
             </div>
         </div>
-
     </div>
+    </form>
 
     <script>
     function adjustTime(inputId, minutes) {
@@ -343,17 +345,23 @@
             if (storedCoords) {
                 let coords = JSON.parse(storedCoords);
                 console.log("Retrieved Coordinates:", coords.lat, coords.lng);
+
+                // Update text display
                 document.getElementById(inputID).innerText =
                     `Latitude: ${coords.lat}\n Longitude: ${coords.lng}`;
+
+                // Update hidden input field
                 if (inputID === "coordinatesDisplayDepart") {
+                    document.getElementById("coordinatesInputDepart").value = `${coords.lat},${coords.lng}`;
                     document.getElementById("toggleTrackingArrive").disabled = true;
                 } else {
+                    document.getElementById("coordinatesInputArrival").value = `${coords.lat},${coords.lng}`;
                     document.getElementById("toggleTrackingDepart").disabled = true;
                 }
             } else {
                 console.warn("No coordinates found in localStorage yet.");
             }
-        }, 100); // Check every tenth of a second
+        }, 100);
     }
 
     function stopTracking(inputID) {
@@ -363,9 +371,17 @@
             let coords = JSON.parse(storedCoords);
             document.getElementById(inputID).innerText =
                 `Latitude: ${coords.lat}\n Longitude: ${coords.lng}`;
+
+            // Update hidden input field
+            if (inputID === "coordinatesDisplayDepart") {
+                document.getElementById("coordinatesInputDepart").value = `${coords.lat},${coords.lng}`;
+            } else {
+                document.getElementById("coordinatesInputArrival").value = `${coords.lat},${coords.lng}`;
+            }
         } else {
             console.warn("No coordinates found in localStorage yet.");
         }
+
         if (inputID === "coordinatesDisplayDepart") {
             document.getElementById("toggleTrackingArrive").disabled = false;
         } else {
