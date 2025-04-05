@@ -5,7 +5,7 @@ app = Flask(__name__, template_folder=".")
 
 time_keys = ["bus", "car", "bike", "walk"]
 toggle_keys = ["toggleCar", "toggleBus", "toggleBike", "toggleWalk"]
-coordinates_keys = ["coords_depart", "coords_arrival"]
+coordinates_keys = ["coords_origin", "coords_destination"]
 
 
 def init_times():

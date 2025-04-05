@@ -263,16 +263,16 @@
             <div class="coordinates-container">
                 <h2 style="font-family: Amaranth,serif; color: #0D0D0D; height: 5px">Coordonnées</h2>
                 <div class="coordinates-group">
-                    <div id="DepartLabel">Départ</div>
-                    <input type="checkbox" id="toggleTrackingDepart">
-                    <div id="coordinatesDisplayDepart" class="coordinates-display">Choisir Coordonnées</div>
-                    <input type="hidden" name="coords_depart" id="coordinatesInputDepart">
+                    <div id="OriginLabel">Départ</div>
+                    <input type="checkbox" id="toggleTrackingOrigin">
+                    <div id="coordinatesDisplayOrigin" class="coordinates-display">Choisir Coordonnées</div>
+                    <input type="hidden" name="coords_origin" id="coordinatesInputOrigin">
                 </div>
                 <div class="coordinates-group">
                     <div id="ArriveLabel">Arrivée</div>
-                    <input type="checkbox" id="toggleTrackingArrive">
+                    <input type="checkbox" id="toggleTrackingDestination">
                     <div id="coordinatesDisplayArrive" class="coordinates-display">Choisir Coordonnées</div>
-                    <input type="hidden" name="coords_arrival" id="coordinatesInputArrival">
+                    <input type="hidden" name="coords_destination" id="coordinatesInputDestination">
                 </div>
             </div>
         </div>
@@ -319,17 +319,17 @@
 
     let trackingInterval = null;
 
-    document.getElementById("toggleTrackingDepart").addEventListener("change", function() {
+    document.getElementById("toggleTrackingOrigin").addEventListener("change", function() {
         if (this.checked) {
             console.log("Tracking Enabled");
-            startTracking("coordinatesDisplayDepart");
+            startTracking("coordinatesDisplayOrigin");
         } else {
             console.log("Tracking Disabled");
-            stopTracking("coordinatesDisplayDepart");
+            stopTracking("coordinatesDisplayOrigin");
         }
     });
 
-    document.getElementById("toggleTrackingArrive").addEventListener("change", function() {
+    document.getElementById("toggleTrackingDestination").addEventListener("change", function() {
         if (this.checked) {
             console.log("Tracking Enabled");
             startTracking("coordinatesDisplayArrive");
@@ -351,12 +351,12 @@
                     `Latitude: ${coords.lat}\n Longitude: ${coords.lng}`;
 
                 // Update hidden input field
-                if (inputID === "coordinatesDisplayDepart") {
-                    document.getElementById("coordinatesInputDepart").value = `${coords.lat},${coords.lng}`;
-                    document.getElementById("toggleTrackingArrive").disabled = true;
+                if (inputID === "coordinatesDisplayOrigin") {
+                    document.getElementById("coordinatesInputOrigin").value = `${coords.lat},${coords.lng}`;
+                    document.getElementById("toggleTrackingDestination").disabled = true;
                 } else {
-                    document.getElementById("coordinatesInputArrival").value = `${coords.lat},${coords.lng}`;
-                    document.getElementById("toggleTrackingDepart").disabled = true;
+                    document.getElementById("coordinatesInputDestination").value = `${coords.lat},${coords.lng}`;
+                    document.getElementById("toggleTrackingOrigin").disabled = true;
                 }
             } else {
                 console.warn("No coordinates found in localStorage yet.");
@@ -373,19 +373,19 @@
                 `Latitude: ${coords.lat}\n Longitude: ${coords.lng}`;
 
             // Update hidden input field
-            if (inputID === "coordinatesDisplayDepart") {
-                document.getElementById("coordinatesInputDepart").value = `${coords.lat},${coords.lng}`;
+            if (inputID === "coordinatesDisplayOrigin") {
+                document.getElementById("coordinatesInputOrigin").value = `${coords.lat},${coords.lng}`;
             } else {
-                document.getElementById("coordinatesInputArrival").value = `${coords.lat},${coords.lng}`;
+                document.getElementById("coordinatesInputDestination").value = `${coords.lat},${coords.lng}`;
             }
         } else {
             console.warn("No coordinates found in localStorage yet.");
         }
 
-        if (inputID === "coordinatesDisplayDepart") {
-            document.getElementById("toggleTrackingArrive").disabled = false;
+        if (inputID === "coordinatesDisplayOrigin") {
+            document.getElementById("toggleTrackingDestination").disabled = false;
         } else {
-            document.getElementById("toggleTrackingDepart").disabled = false;
+            document.getElementById("toggleTrackingOrigin").disabled = false;
         }
     }
 
