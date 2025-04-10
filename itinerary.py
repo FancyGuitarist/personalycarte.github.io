@@ -7,7 +7,6 @@ import os
 import geopandas as gpd
 from r5py import TransportNetwork, DetailedItinerariesComputer, TransportMode
 
-
 class CustomItinerary:
     def __init__(self):
         self.set_network()

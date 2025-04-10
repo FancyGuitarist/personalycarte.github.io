@@ -1,4 +1,6 @@
 from flask import Flask, render_template, flash, request, redirect, url_for
+from itinerary import CustomItinerary
+import time  # For testing purposes
 
 
 app = Flask(__name__, template_folder=".")
@@ -120,11 +122,20 @@ def map_page():
 def submit_inputs():
     times = get_times()
     toggle_states = get_toggles_dict()
-    toggles_list = convert_toggles_dict_to_list(toggle_states)
+    transport_modes = convert_toggles_dict_to_list(toggle_states)
     coordinates = convert_coordinates_dict_to_tuple(get_coordinates_dict())
     print(times)
-    print(toggles_list)
+    print(transport_modes)
     print(coordinates)
+    itinerary = CustomItinerary()
+    start_time = time.time()
+    best_itinerary = itinerary.compute_itinerary(
+        coordinates['coordinates_origin'],
+        coordinates['coordinates_destination'],
+        transport_modes)
+
+    print(best_itinerary)
+    print(f"Time to compute: {time.time() - start_time} seconds")
 
     # Flash the submitted values (visible on the web page)
     flash(
