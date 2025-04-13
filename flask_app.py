@@ -2,7 +2,6 @@ from flask import Flask, render_template, flash, request, redirect, url_for
 from itinerary import CustomItinerary
 import time  # For testing purposes
 
-
 app = Flask(__name__, template_folder=".")
 
 time_keys = ["bus", "car", "bike", "walk"]

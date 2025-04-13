@@ -1,11 +1,19 @@
+import jpype
+import os
+
+# Lancer la JVM avec le fichier .jar
+if not jpype.isJVMStarted():
+    jar_path = os.path.abspath("r5.jar")  # modifie si nécessaire
+    jpype.startJVM(classpath=[jar_path])
+
 import sys
 
-sys.argv.append(["--max-memory", "5G"])
+sys.argv.append(["--max-memory", "99%"])
 
 import datetime
-import os
 import geopandas as gpd
 from r5py import TransportNetwork, DetailedItinerariesComputer, TransportMode
+
 
 class CustomItinerary:
     def __init__(self):
@@ -43,7 +51,8 @@ class CustomItinerary:
 
     def set_network(self):
         self.transport_network = TransportNetwork(
-            "Data/OSM/openstreetmap_capnat.pbf", ["Data/RTC/googletransit.zip"]
+            osm_pbf="Data/OSM/openstreetmap_capnat.pbf", 
+            gtfs=["Data/RTC/googletransit.zip"]
         )
 
     def compute_itinerary(
@@ -197,3 +206,4 @@ if __name__ == "__main__":
     best_itinerary = itinerary.compute_itinerary(origin, destination, transport_modes)
 
     print(best_itinerary)
+    pass

@@ -7,7 +7,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1010,1010,Champlain/1010,Rue Champlain / au 491,46.802124,-71.210739,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1010,0
 1-1013,1013,Champlain/1013,Rue Champlain / face au 390,46.803226,-71.208267,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1013,1
 1-1014,1014,Champlain/1014,Rue Champlain / au 269,46.804951,-71.206001,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1014,1
-1-1015,1015,Petit-Champlain,Boul. Champlain / au 101,46.809872,-71.203209,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1015,1
+1-1015,1015,Petit-Champlain,Boul. Champlain / au 101,46.809879,-71.203209,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1015,1
 1-3969,3969,102e Rue,Saint-Grégoire / 102e Rue,46.877193,-71.15596,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3969,0
 1-3185,3185,10e Avenue/3185,60e Rue Est / 10e Avenue Est,46.856251,-71.245384,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3185,0
 1-3720,3720,107e Rue,Sainte-Anne / 107e Rue,46.875286,-71.157028,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3720,0
@@ -45,7 +45,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-6454,6454,Maguire/6454,Maguire / au 1394,46.780357,-71.250755,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6454,0
 1-1402,1402,Mgr-Plessis/1402,Mgr-Plessis / face au 1815,46.818455,-71.24704,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1402,1
 1-1429,1429,Champlain/1429,Boul. Champlain / face au 551,46.801594,-71.211823,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1429,0
-1-1465,1465,De Villers/1465,Sainte-Foy / De Villers,46.78281,-71.29361,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1465,1
+1-1465,1465,De Villers/1465,Sainte-Foy / De Villers,46.782822,-71.29361,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1465,1
 1-5420,5420,Louis-XIV/5420,Astrid / Louis-XIV,46.881603,-71.242142,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5420,0
 1-3065,3065,Louis-XIV/3065,du Bourg-Royal / Louis-XIV,46.880287,-71.247147,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3065,0
 1-4038,4038,Louis-XIV/4038,Cloutier / Louis-XIV,46.857365,-71.275429,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4038,0
@@ -71,7 +71,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1513,1513,16e Rue,4e Avenue / 16e Rue,46.83123,-71.231682,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1513,0
 1-1592,1592,16e Rue,4e Avenue / 16e Rue,46.831078,-71.231354,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1592,1
 1-1790,1790,Laurier Québec,Laurier - Laurier Québec,46.769817,-71.283707,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1790,1
-1-1793,1793,de l'Église,Laurier / de l'Église,46.766399,-71.290337,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1793,0
+1-1793,1793,de l'Église,Laurier / de l'Église,46.766399,-71.290321,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1793,0
 1-1800,1800,Neilson/1800,Neilson / au 3190,46.757759,-71.308891,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1800,1
 1-1814,1814,Neilson/1814,Neilson / face au 3190,46.757385,-71.309326,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1814,1
 1-1844,1844,des Braves,Grande Allée Ouest / face au 850,46.795246,-71.235565,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1844,1
@@ -83,7 +83,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2991,2991,H. Enfant-Jésus,H.-Bourassa / 18e Rue,46.836452,-71.226494,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2991,1
 1-3097,3097,H. Enfant-Jésus,H.-Bourassa / 18e Rue,46.83606,-71.226357,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3097,1
 1-1915,1915,Maricourt/1915,Maricourt / au 3375,46.763412,-71.313309,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1915,1
-1-1992,1992,De Villers/1992,des Q.-Bourgeois / Samuel-King,46.780781,-71.289536,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1992,1
+1-1992,1992,De Villers/1992,des Q.-Bourgeois / Samuel-King,46.780788,-71.289536,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1992,1
 1-1324,1324,1re Avenue,18e Rue / 1re Avenue,46.830219,-71.237671,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1324,1
 1-5156,5156,1re Avenue/5156,46e Rue Est / 1re Avenue,46.845005,-71.250824,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5156,0
 1-6353,6353,1re Avenue/6353,46e Rue Ouest / 1re Avenue,46.844498,-71.251564,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6353,0
@@ -98,7 +98,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4224,4224,1re Avenue,Louis-XIV / 1re Avenue,46.860405,-71.271187,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4224,1
 1-6359,6359,1re Avenue/6359,46e Rue Ouest / 1re Avenue,46.844501,-71.251923,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6359,0
 1-2184,2184,1re Rue,3e Avenue / 1re Rue,46.820343,-71.224548,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2184,1
-1-2004,2004,Aquarium Québec,des Hôtels / au 1675,46.752354,-71.289276,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2004,0
+1-2004,2004,Aquarium Québec,des Hôtels / au 1675,46.752335,-71.289215,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2004,0
 1-2005,2005,Baie de Beauport,Baie de Beauport,46.836937,-71.205391,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2005,0
 1-2020,2020,Provancher/2020,Provancher / au 1333,46.755295,-71.344849,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2020,0
 1-2046,2046,St-Félix/2046,Saint-Félix / face au 4473,46.74168,-71.354828,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2046,1
@@ -203,12 +203,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2507,2507,St-Félix/2507,Saint-Félix / au 4303,46.74728,-71.348412,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2507,0
 1-2522,2522,des Gradins/2522,des Gradins / au 5355,46.840736,-71.275688,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2522,0
 1-2523,2523,Rocailles/2523,des Gradins / des Rocailles,46.837669,-71.272774,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2523,1
-1-2524,2524,RTC,des Rocailles / au 720,46.836403,-71.275383,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2524,0
+1-2524,2524,RTC,des Rocailles / au 720,46.836411,-71.275383,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2524,0
 1-2527,2527,Bouvier/2527,Bouvier / au 1080,46.829498,-71.285362,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2527,0
 1-2528,2528,Bouvier/2528,Bouvier / au 1100,46.82864,-71.287224,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2528,0
 1-2540,2540,Bouvier/2540,Bouvier / face au 1160,46.828777,-71.286606,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2540,1
 1-2541,2541,Bouvier/2541,Bouvier / face au 1080,46.829407,-71.28524,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2541,0
-1-2544,2544,RTC,des Rocailles / au 665,46.836475,-71.274986,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2544,0
+1-2544,2544,RTC,des Rocailles / au 665,46.836468,-71.274986,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2544,0
 1-2546,2546,des Gradins/2546,des Gradins / au 5555,46.840488,-71.275269,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2546,0
 1-2561,2561,de la Faune/2561,de la Faune,46.887852,-71.309265,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2561,0
 1-2566,2566,de la Faune/2566,de la Faune,46.887367,-71.310425,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2566,0
@@ -329,7 +329,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-3616,3616,St-Samuel/3616,Saint-Samuel / au 3845,46.867393,-71.247032,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3616,0
 1-3624,3624,Gaspard/3624,Gaspard / au 3147,46.855709,-71.234177,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3624,0
 1-3638,3638,Joncas/3638,Joncas / au 3350,46.855396,-71.211052,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3638,0
-1-3653,3653,Damiron/3653,Damiron / au 1788,46.816612,-71.353714,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3653,0
+1-3653,3653,Damiron/3653,Damiron / au 1788,46.816574,-71.353668,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3653,0
 1-3655,3655,Myriam/3655,Myriam / au 458,46.877934,-71.236343,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3655,0
 1-3671,3671,Joncas/3671,Joncas / face au 3350,46.855534,-71.210938,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3671,0
 1-3675,3675,Ste-Anne/3675,Sainte-Anne / au 505,46.853474,-71.194542,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3675,0
@@ -409,7 +409,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4351,4351,Central/4351,Central / au 2290,46.809444,-71.292107,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4351,0
 1-4422,4422,Rideau/4422,Rideau / face au 4975,46.797573,-71.321732,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4422,0
 1-4443,4443,Central/4443,Central / au 2285,46.809612,-71.292343,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4443,0
-1-4454,4454,W.-Hamel/4454,W.-Hamel / au 1844,46.805679,-71.283089,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4454,1
+1-4454,4454,W.-Hamel/4454,W.-Hamel / au 1844,46.805695,-71.283691,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4454,1
 1-4455,4455,W.-Hamel/4455,W.-Hamel / au 1880,46.805885,-71.285904,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4455,1
 1-4460,4460,W.-Hamel/4460,W.-Hamel / face au 2705,46.806454,-71.301193,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4460,0
 1-4462,4462,W.-Hamel/4462,W.-Hamel / au 3210,46.806442,-71.307053,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4462,0
@@ -479,9 +479,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4853,4853,St-Charles/4853,du Lac-Saint-Charles / au 1010,46.890213,-71.35334,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4853,0
 1-4854,4854,Lapierre/4854,Lapierre / face au 3119,46.888969,-71.351051,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4854,0
 1-4855,4855,Lapierre/4855,Lapierre / face au 3011,46.888287,-71.348732,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4855,0
-1-4856,4856,Lapierre/4856,Lapierre / face au 2723,46.886612,-71.342758,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4856,0
-1-4858,4858,Lapierre/4858,Lapierre / au 2508,46.882278,-71.3423,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4858,0
-1-4861,4861,Lapierre/4861,Lapierre / au 2132,46.877239,-71.341064,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4861,0
+1-4856,4856,Lapierre/4856,Lapierre / face au 2723,46.8866,-71.342789,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4856,0
+1-4858,4858,Lapierre/4858,Lapierre / au 2508,46.882286,-71.342316,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4858,0
+1-4861,4861,Lapierre/4861,Lapierre / au 2132,46.877239,-71.341057,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4861,0
 1-4868,4868,Lapierre/4868,Lapierre / au 1092,46.863266,-71.330696,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4868,0
 1-4879,4879,P.-Bertrand/4879,P.-Bertrand / au 835,46.82481,-71.273262,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4879,1
 1-4903,4903,Riv. St-Charles,des Capucins / au 10,46.822853,-71.217567,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4903,1
@@ -522,8 +522,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5317,5317,des Quatre-Temps,Jean-XXIII / des Quatre-Temps,46.890957,-71.169975,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5317,0
 1-5000,5000,De Vinci/5000,De Vinci / au 1442,46.773197,-71.370964,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5000,0
 1-5004,5004,Paul-VI/5004,Paul-VI / au 1461,46.77573,-71.366814,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5004,0
-1-5012,5012,W.-Hamel/5012,W.-Hamel / au 7081,46.786545,-71.358261,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5012,1
-1-5013,5013,W.-Hamel/5013,W.-Hamel / au 7025,46.787811,-71.356201,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5013,0
+1-5012,5012,W.-Hamel/5012,W.-Hamel / au 7081,46.78653,-71.358276,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5012,1
+1-5013,5013,W.-Hamel/5013,W.-Hamel / au 7025,46.787804,-71.356216,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5013,0
 1-5014,5014,J.-Verne/5014,W.-Hamel / J.-Verne,46.790073,-71.353172,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5014,0
 1-5015,5015,R.-Bourassa/5015,R.-Bourassa / Bastien,46.855595,-71.341217,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5015,1
 1-5025,5025,Parc-Techn./5025,W.-Hamel / du Parc-Technologique,46.804802,-71.32634,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5025,0
@@ -536,8 +536,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5059,5059,P.-Lelièvre/5059,Père-Lelièvre / face au 1847,46.81147,-71.290283,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5059,0
 1-5061,5061,St-Jacques/5061,Saint-Jacques / au 5600,46.823914,-71.320641,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5061,0
 1-5066,5066,Banville/5066,Banville / au 5360,46.821827,-71.329407,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5066,0
-1-5067,5067,Banville/5067,Banville / au 5820,46.823639,-71.33149,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5067,0
-1-5069,5069,Costebelle/5069,du Costebelle /  au 6190,46.824013,-71.334709,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5069,0
+1-5067,5067,Banville/5067,Banville / au 5820,46.823631,-71.331505,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5067,0
+1-5069,5069,Costebelle/5069,du Costebelle /  au 6190,46.824001,-71.334702,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5069,0
 1-5073,5073,l'Ormière/5073,de l'Ormière / au 7800,46.827679,-71.343559,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5073,1
 1-5080,5080,l'Ormière/5080,de l'Ormière / au 9550,46.836941,-71.357399,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5080,1
 1-5084,5084,l'Ormière/5084,de l'Ormière / au 11166,46.845718,-71.369934,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5084,0
@@ -583,7 +583,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2969,2969,52e Rue,5e Avenue Ouest / 52e Rue Ouest,46.843372,-71.26487,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2969,1
 1-3191,3191,52e Rue,3e Avenue Ouest / 52e Rue Ouest,46.846001,-71.258003,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3191,1
 1-3197,3197,52e Rue,3e Avenue Ouest / 52e Rue Ouest,46.846233,-71.258347,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3197,1
-1-5300,5300,l'Ormière/5300,de l'Ormière / face au 5735,46.820679,-71.334206,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5300,1
+1-5300,5300,l'Ormière/5300,de l'Ormière / face au 5735,46.820667,-71.334206,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5300,1
 1-5308,5308,l'Ormière/5308,de l'Ormière / au 5805,46.820641,-71.334366,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5308,1
 1-5312,5312,Chauveau/5312,Chauveau / au 4555,46.827095,-71.357033,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5312,0
 1-5325,5325,Chauveau/5325,Chauveau / au 4550,46.827148,-71.357033,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5325,1
@@ -591,7 +591,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5379,5379,C.-Labelle/5379,du Curé-Labelle / au 1204,46.767857,-71.394104,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5379,0
 1-5386,5386,R.-Bourassa/5386,R.-Bourassa / Lebourgneuf,46.832279,-71.305641,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5386,0
 1-5394,5394,R.-Bourassa/5394,R.-Bourassa / Bastien,46.855392,-71.34079,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5394,1
-1-5405,5405,J.-Marchand/5405,J.-Marchand / face au 3975,46.822716,-71.343193,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5405,1
+1-5405,5405,J.-Marchand/5405,J.-Marchand / face au 3975,46.822735,-71.343178,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5405,1
 1-5409,5409,A.-Viau/5409,A.-Viau Nord / au 7000,46.8186,-71.347397,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5409,0
 1-5421,5421,Louis-XIV/5421,Louis-XIV / au 1589,46.880798,-71.244461,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5421,1
 1-5426,5426,A.-Viau/5426,A.-Viau Nord / au 7200,46.819103,-71.348953,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5426,1
@@ -610,7 +610,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-3162,3162,55e Rue,3e Avenue Ouest / 56e Rue Ouest,46.848003,-71.259865,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3162,0
 1-3168,3168,55e Rue,3e Avenue Ouest / 55e Rue Ouest,46.847725,-71.259743,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3168,0
 1-5600,5600,Pie-XI/5600,Pie-XI Nord / Henri-IV,46.87888,-71.467415,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5600,0
-1-5601,5601,T. Gare Palais,de la Gare du Palais / A.-Martin,46.818398,-71.213463,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5601,1
+1-5601,5601,T. Gare Palais,de la Gare du Palais / A.-Martin,46.818398,-71.213448,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5601,1
 1-5682,5682,Pie-XI/5682,Pie-XI Nord / au 2160,46.878948,-71.467636,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5682,0
 1-5740,5740,Pie-XI/5740,Pie-XI Nord / au 2120,46.877277,-71.466309,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5740,0
 1-5763,5763,Pie-XI/5763,Pie-XI Nord / face au 2124,46.877171,-71.466278,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5763,0
@@ -622,7 +622,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-3108,3108,57e Rue,3e Avenue Ouest / 57e Rue Ouest,46.849533,-71.261292,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3108,1
 1-3167,3167,57e Rue,3e Avenue Ouest / 57e Rue Ouest,46.849495,-71.261391,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3167,1
 1-5806,5806,T. Gare Palais,de la Gare-du-Palais / A.-Martin,46.818195,-71.212944,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5806,1
-1-5807,5807,T. Gare Palais,de la Gare-du-Palais / A.-Martin,46.818176,-71.213158,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5807,1
+1-5807,5807,T. Gare Palais,de la Gare-du-Palais / A.-Martin,46.818165,-71.213158,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5807,1
 1-5808,5808,Gare-Palais/5808,de la Gare-du-Palais / A.-Martin,46.818157,-71.213364,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5808,0
 1-5830,5830,Louis-XIV/5830,Louis-XIV / au 2145,46.886971,-71.227592,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5830,1
 1-5831,5831,Louis-XIV/5831,Louis-XIV / au 2101,46.885815,-71.232224,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5831,0
@@ -643,8 +643,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5988,5988,J.-Verne/5988,J.-Verne / face au 1910,46.770214,-71.366165,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5988,0
 1-5992,5992,J.-Simons/5992,J.-Simons / au 9205,46.826233,-71.364822,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5992,1
 1-5993,5993,J.-Simons/5993,J.-Simons / face au 9205,46.826038,-71.364517,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5993,1
-1-5998,5998,Pte-Lièvres/5998,Bickell / de la Pointe-aux-Lièvres,46.821274,-71.237862,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5998,0
-1-5999,5999,Pte-Lièvres/5999,Lee / de la Pointe-aux-Lièvres,46.820747,-71.236023,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5999,0
+1-5998,5998,Pte-Lièvres/5998,Bickell / de la Pointe-aux-Lièvres,46.821266,-71.237877,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5998,0
+1-5999,5999,Pte-Lièvres/5999,Lee / de la Pointe-aux-Lièvres,46.820755,-71.236023,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5999,0
 1-2958,2958,5e Avenue,46e Rue Ouest / 5e Avenue Ouest,46.840157,-71.261703,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2958,0
 1-1127,1127,5e Rue,3e Avenue / 5e Rue,46.823154,-71.226738,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1127,1
 1-1341,1341,5e Rue,4e Avenue / 5e Rue,46.823734,-71.224518,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1341,0
@@ -739,7 +739,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-6436,6436,de l'Apogée/6436,de la Faune / de l'Apogée,46.878227,-71.321877,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6436,1
 1-6437,6437,de l'Apogée/6437,de la Faune / de l'Apogée,46.878334,-71.321571,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6437,1
 1-6438,6438,4e Avenue/6438,41e Rue Est / 4e Avenue Est,46.84383,-71.243088,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6438,1
-1-6449,6449,4e Avenue/6449,41e Rue Est / 4e Avenue Est,46.84375,-71.243416,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6449,1
+1-6449,6449,4e Avenue/6449,41e Rue Est / 4e Avenue Est,46.843914,-71.243141,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6449,1
 1-6455,6455,Maguire/6455,Maguire / face au 1394,46.780266,-71.25074,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6455,0
 1-6457,6457,Médecine/6457,de la Médecine,46.776371,-71.272263,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6457,0
 1-6458,6458,Médecine/6458,de la Médecine,46.776466,-71.271912,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6458,1
@@ -758,8 +758,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-6477,6477,Ste-Foy/6477,de Rougemont / Sainte-Foy,46.777039,-71.308479,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6477,0
 1-6478,6478,Airelles/6478,des Bois-Francs / des Airelles,46.885952,-71.375526,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6478,0
 1-6479,6479,Bois-Francs/6479,des Bois-Francs / au 528,46.886894,-71.373383,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6479,0
-1-6482,6482,de l'Apogée/6482,Vézina / de l'Apogée,46.886757,-71.330223,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6482,0
-1-6483,6483,de l'Apogée/6483,Vézina / de l'Apogée,46.886765,-71.330597,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6483,0
+1-6482,6482,de l'Apogée/6482,Vézina / de l'Apogée,46.886791,-71.330246,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6482,0
+1-6483,6483,de l'Apogée/6483,Vézina / de l'Apogée,46.886765,-71.330551,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6483,0
 1-6496,6496,Sheppard,Maguire / Sheppard,46.782391,-71.253273,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6496,1
 1-3110,3110,64e Rue,3e Avenue Ouest / 64e Rue Ouest,46.852589,-71.263336,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3110,0
 1-6523,6523,Louis-XIV/6523,Louis-XIV / au 2681,46.899128,-71.187492,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6523,0
@@ -795,7 +795,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-3082,3082,68e Rue,3e Avenue Est / 68e Rue Est,46.85688,-71.257576,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3082,1
 1-3111,3111,68e Rue,3e Avenue Ouest / 68e Rue Ouest,46.853889,-71.264763,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3111,1
 1-6931,6931,De Villebon/6931,De Villebon / au 1405,46.835903,-71.223564,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6931,1
-1-6439,6439,6e Avenue,41e Rue Est / 6e Avenue Est,46.845036,-71.240341,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6439,1
+1-6439,6439,6e Avenue,41e Rue Est / 6e Avenue Est,46.845055,-71.240364,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6439,1
 1-6440,6440,6e Avenue,41e Rue Est / 6e Avenue Est,46.8452,-71.240128,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6440,1
 1-7010,7010,Médecine/7010,de la Médecine / de l'Université,46.777069,-71.274307,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7010,0
 1-7021,7021,Champlain/7021,Boul. Champlain / Secteur de la plage,46.775833,-71.24205,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7021,1
@@ -825,7 +825,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2934,2934,76e Rue,H.-Bourassa / 76e Rue Est,46.859737,-71.264687,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2934,1
 1-3010,3010,Cégep Limoilou,3e Avenue Est / 76e Rue Est,46.861046,-71.261581,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3010,1
 1-3068,3068,76e Rue,Cloutier / 76e Rue Ouest,46.856159,-71.273918,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3068,0
-1-3076,3076,76e Rue,76e Rue Est / au 210,46.860218,-71.264549,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3076,1
+1-3076,3076,76e Rue,76e Rue Est / au 210,46.86031,-71.264244,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3076,1
 1-3120,3120,76e Rue,Trudelle / 76e Rue Ouest,46.853992,-71.276299,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3120,1
 1-3248,3248,Cégep Limoilou,3e Avenue Est / 76e Rue Est,46.861378,-71.262032,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3248,0
 1-3200,3200,79e Rue,10e Avenue Est / de Châtenois,46.866497,-71.255127,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3200,1
@@ -860,7 +860,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-7305,7305,9e Rue,Principale / 9e Rue de l'Aéroport,46.797905,-71.371796,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7305,0
 1-1873,1873,d'Abbeville,A.-Giroux / d'Abbeville,46.757988,-71.30677,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1873,0
 1-1919,1919,d'Abbeville,A.-Giroux / d'Abbeville,46.757908,-71.306877,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1919,0
-1-1108,1108,Gare-Palais/1108,Saint-Paul / A.-Martin,46.816845,-71.211578,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1108,1
+1-1108,1108,Gare-Palais/1108,Saint-Paul / A.-Martin,46.816853,-71.211578,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1108,1
 1-4675,4675,de l'Accueil,Lapierre / de l'Accueil,46.870064,-71.336983,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4675,0
 1-4704,4704,de l'Accueil,Lapierre / de l'Accueil,46.869617,-71.336517,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4704,0
 1-5050,5050,Chabot,Père-Lelièvre / A.-Cloutier,46.811237,-71.267433,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5050,0
@@ -969,8 +969,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-6600,6600,G.-D'Anneville,Tronquet / G.-D'Anneville,46.887638,-71.190643,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6600,0
 1-6663,6663,G.-D'Anneville,Ardouin / G.-D'Anneville,46.88324,-71.187576,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6663,1
 1-1099,1099,Langelier,Charest Est / Saint-Anselme,46.811676,-71.229462,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1099,1
-1-1017,1017,M. Civilisation,Dalhousie / Saint-Antoine,46.814362,-71.201546,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1017,1
-1-1113,1113,M. Civilisation,Dalhousie / Saint-Antoine,46.814793,-71.201813,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1113,1
+1-1017,1017,M. Civilisation,Dalhousie / Saint-Antoine,46.81435,-71.201546,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1017,1
+1-1113,1113,M. Civilisation,Dalhousie / Saint-Antoine,46.814808,-71.201805,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1113,1
 1-1695,1695,St-Sauveur,des Oblats / de l'Aqueduc,46.807938,-71.24157,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1695,0
 1-3688,3688,Arago,de l'Aqueduc / Arago Ouest,46.806515,-71.234436,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3688,0
 1-1368,1368,Arbour,Nantel / Arbour,46.838882,-71.349487,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1368,0
@@ -996,7 +996,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1861,1861,S.-D'Argenteuil,Saint-Louis / du Sieur-D'Argenteuil,46.762119,-71.283333,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1861,1
 1-1930,1930,S.-D'Argenteuil,Saint-Louis / du Sieur-D'Argenteuil,46.761993,-71.283333,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1930,1
 1-6610,6610,A.-Rivard,Bardy / Adjutor-Rivard,46.842289,-71.224358,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6610,0
-1-1170,1170,St-Vallier/1170,Saint-Vallier Ouest / de l'Armée,46.806591,-71.260391,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1170,1
+1-1170,1170,St-Vallier/1170,Saint-Vallier Ouest / de l'Armée,46.80658,-71.260368,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1170,1
 1-2024,2024,Arnois,Provancher / Arnois,46.758083,-71.348572,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2024,0
 1-2095,2095,Arnois,Provancher / De Constance,46.758018,-71.348846,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2095,0
 1-2769,2769,Trente-Arpents,du Lac-Saint-Charles / T.-Arpents,46.904766,-71.372971,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2769,0
@@ -1010,7 +1010,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1686,1686,des Artisans,l'A.-Cartoucherie / des Artisans,46.80238,-71.257492,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1686,0
 1-1763,1763,George-V Ouest,Grande Allée Est / D'Artigny,46.807087,-71.215317,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1763,0
 1-5915,5915,Artisans/5915,J.-Juneau / des Artisans,46.738178,-71.447777,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5915,0
-1-2338,2338,d'Artois,de Tunis / d'Artois,46.885914,-71.164726,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2338,0
+1-2338,2338,d'Artois,de Tunis / d'Artois,46.885914,-71.164742,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2338,0
 1-2340,2340,d'Artois,de Tunis / d'Artois,46.885967,-71.164452,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2340,0
 1-2941,2941,D'Assise,Boisclerc / D'Assise,46.83107,-71.240814,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2941,1
 1-2988,2988,D'Assise,Boisclerc / D'Assise,46.830891,-71.241142,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2988,0
@@ -1057,7 +1057,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5074,5074,des Balsamines,du Gardénia / des Balsamines,46.814884,-71.277878,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5074,0
 1-5457,5457,des Balsamines,des Primevères / des Balsamines,46.815044,-71.278084,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5457,1
 1-5065,5065,Banville/5065,Fontenelle / Banville,46.81987,-71.328888,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5065,1
-1-5072,5072,J.-Marchand,de l'Ormière / Banville,46.824669,-71.339607,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5072,1
+1-5072,5072,J.-Marchand,de l'Ormière / Banville,46.824677,-71.339615,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5072,1
 1-5140,5140,Banville/5140,du Costebelle / Banville,46.82478,-71.333069,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5140,1
 1-4368,4368,St-J.-Bapt./4368,Michelet / Saint-Jean-Baptiste,46.806984,-71.335663,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4368,0
 1-4599,4599,St-J.-Bapt./4599,Michelet / Saint-Jean-Baptiste,46.806583,-71.336227,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4599,1
@@ -1155,7 +1155,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4871,4871,Béland,Élisabeth-II / Béland,46.85957,-71.326782,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4871,0
 1-5286,5286,Bélanger,W.-Hamel / Bélanger,46.812496,-71.25444,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5286,1
 1-5592,5592,Golf-de-Bélair,Pie-XI Nord / du Golf-de-Bélair,46.869884,-71.440071,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5592,0
-1-5607,5607,Golf-de-Bélair,Pie-XI Nord / du Golf-de-Bélair,46.869911,-71.440323,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5607,0
+1-5607,5607,Golf-de-Bélair,Pie-XI Nord / du Golf-de-Bélair,46.869919,-71.440361,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5607,0
 1-3311,3311,de Belfort,J.-Talon Est / de Belfort,46.873493,-71.271797,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3311,0
 1-5410,5410,de Belfort,J.-Talon Est / de Belfort,46.873909,-71.271278,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5410,0
 1-2123,2123,L.-A.-Bélisle,de Sillery / L.-A.-Bélisle,46.777222,-71.24707,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2123,0
@@ -1204,14 +1204,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5948,5948,des Bernaches,des Landes / des Bernaches,46.740463,-71.381271,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5948,1
 1-5990,5990,Bernard,Saint-Claude / Bernard,46.845966,-71.376297,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5990,0
 1-6055,6055,des Bernaches,Saint-Félix / des Bernaches,46.736084,-71.379616,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6055,0
-1-2543,2543,P.-Bertrand/2543,des Rocailles / P.-Bertrand,46.834064,-71.280579,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2543,1
+1-2543,2543,P.-Bertrand/2543,des Rocailles / P.-Bertrand,46.834057,-71.280579,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2543,1
 1-3717,3717,du Rég.-de-Berry,de la Paix / du Régiment-de-Berry,46.779514,-71.322479,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3717,0
 1-3781,3781,Berrouard,des Sablonnières / Berrouard,46.906029,-71.199333,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3781,0
 1-3798,3798,Berrouard,des Sablonnières / Berrouard,46.906067,-71.199303,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3798,0
 1-2023,2023,H.-Bertrand,Provancher / H.-Bertrand,46.758102,-71.346962,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2023,0
 1-2096,2096,H.-Bertrand,Provancher / M.-Gaudard,46.758091,-71.34729,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2096,0
 1-2465,2465,Bertin,Prom.-des-Soeurs / Bertin,46.758446,-71.36261,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2465,0
-1-2525,2525,P.-Bertrand/2525,des Rocailles / P.-Bertrand,46.8344,-71.280006,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2525,1
+1-2525,2525,P.-Bertrand/2525,des Rocailles / P.-Bertrand,46.834412,-71.280006,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2525,1
 1-2964,2964,P.-Bertrand,Bouvier / P.-Bertrand,46.831749,-71.279793,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2964,1
 1-3852,3852,Bertrand/3852,Louis-XIV / Bertrand,46.8993,-71.190331,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3852,0
 1-3880,3880,Bertrand,Raymond / Bertrand,46.912254,-71.193649,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3880,0
@@ -1330,7 +1330,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-3158,3158,Halles-Ste-Foy,R.-Bourassa / des Q.-Bourgeois,46.78355,-71.286865,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3158,1
 1-4886,4886,Q-Bourgeois/4886,Duchesneau / des Q.-Bourgeois,46.767876,-71.310532,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4886,0
 1-5589,5589,du Grand-Bourg,Pie-XI Nord / du Grand-Bourg,46.865349,-71.433525,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5589,0
-1-5610,5610,du Grand-Bourg,Pie-XI Nord / du Grand-Bourg,46.865501,-71.433884,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5610,0
+1-5610,5610,du Grand-Bourg,Pie-XI Nord / du Grand-Bourg,46.865509,-71.433884,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5610,0
 1-5785,5785,R.-Bourassa,de la Comtoise / R.-Bourassa,46.839176,-71.319954,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5785,1
 1-6538,6538,Bourguignon,Saint-Michel / Bourguignon,46.894371,-71.197342,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6538,0
 1-2526,2526,Bouvier,P.-Bertrand / Bouvier,46.832581,-71.280464,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2526,0
@@ -1437,7 +1437,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1039,1039,de Carillon,Saint-Vallier Ouest / de Carillon,46.812157,-71.237518,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1039,0
 1-1614,1614,de Carillon,des Oblats / de Carillon,46.810974,-71.236382,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1614,1
 1-4312,4312,W.-Caron/4312,J.-Parent / W.-Caron,46.845436,-71.354538,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4312,0
-1-5996,5996,J.-Carmichael,H.-Bourassa / J.-Carmichael,46.8937,-71.299171,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5996,1
+1-5996,5996,J.-Carmichael,H.-Bourassa / J.-Carmichael,46.893688,-71.299171,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5996,1
 1-1034,1034,Caron,Charest Est / Caron,46.81237,-71.227806,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1034,1
 1-1100,1100,Caron,Charest Est / Caron,46.812225,-71.228149,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1100,1
 1-2049,2049,des Carougeois,Saint-Félix / des Carougeois,46.738937,-71.360863,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2049,0
@@ -1453,7 +1453,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1627,1627,A.-Cartoucherie,des Artisans /  l'A.-Cartoucherie,46.80249,-71.257195,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1627,0
 1-1768,1768,Cartier,Grande Allée Ouest / Cartier,46.80225,-71.22374,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1768,1
 1-1850,1850,Cartier,Grande Allée Ouest / Cartier,46.801987,-71.224037,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1850,1
-1-1947,1947,N.-Carter,des Q.-Bourgeois / N.-Carter,46.77803,-71.294121,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1947,1
+1-1947,1947,N.-Carter,des Q.-Bourgeois / N.-Carter,46.778023,-71.294121,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1947,1
 1-1990,1990,N.-Carter,des Q.-Bourgeois / N.-Carter,46.777496,-71.294624,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1990,1
 1-4313,4313,de Carthagène,du Patrimoine-Mondial / Carthagène,46.843437,-71.337837,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4313,0
 1-4407,4407,de Carthagène,du Patrimoine-Mondial / Carthagène,46.843296,-71.337822,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4407,0
@@ -1473,7 +1473,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5218,5218,T.-Casgrain,La Morille / T.-Casgrain,46.842239,-71.305817,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5218,1
 1-5626,5626,du Castor/5626,de la Montagne Est / du Castor,46.846153,-71.42585,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5626,0
 1-4638,4638,de Cassiopée,Vézina / de Cassiopée,46.885567,-71.333206,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4638,0
-1-4947,4947,de Cassiopée,Vézina / de Cassiopée,46.885429,-71.333481,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4947,0
+1-4947,4947,de Cassiopée,Vézina / de Cassiopée,46.885422,-71.333466,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4947,0
 1-2578,2578,Castel,Pie-XI Sud / Castel,46.850533,-71.403618,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2578,0
 1-3480,3480,de Castillon,G.-Viger / de Castillon,46.913052,-71.201164,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3480,0
 1-3794,3794,de Castillon,G.-Viger / de Castillon,46.91317,-71.201363,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3794,0
@@ -1545,7 +1545,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4412,4412,Chambord,Notre-Dame / Chambord,46.804722,-71.363693,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4412,1
 1-4490,4490,Père-Chaumonot,Notre-Dame / Père-Chaumonot,46.799625,-71.35955,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4490,1
 1-5131,5131,Chauveau/5131,de l'Ormière / Chauveau,46.831406,-71.349411,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5131,1
-1-2244,2244,St. Lawrence,N.-Tremblay / Chapdelaine,46.787109,-71.280998,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2244,0
+1-2244,2244,St. Lawrence,N.-Tremblay / Chapdelaine,46.787098,-71.281013,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2244,0
 1-2284,2284,St. Lawrence,N.-Tremblay / Chapdelaine,46.787315,-71.281319,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2284,0
 1-2433,2433,Chabot/2433,P.-Bertrand / Chabot,46.81324,-71.262558,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2433,1
 1-3078,3078,Chaudière/3078,Provancher / de la Chaudière,46.757942,-71.350662,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3078,0
@@ -1615,7 +1615,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-6650,6650,du Chinook,du Chinook / au 1511,46.833572,-71.28904,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6650,0
 1-3126,3126,Chomedey,Cloutier / Chomedey,46.860821,-71.280083,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3126,1
 1-3149,3149,Chomedey,Cloutier / Chomedey,46.861065,-71.280334,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3149,1
-1-4665,4665,Choquette,Damiron / Choquette,46.812809,-71.348305,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4665,0
+1-4665,4665,Choquette,Damiron / Choquette,46.812809,-71.34832,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4665,0
 1-6643,6643,Chouinard,de la Pente-Douce / Chouinard,46.801716,-71.243828,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6643,1
 1-2041,2041,Chaudière/2041,de la Poterie / de la Chaudière,46.750984,-71.34977,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2041,0
 1-3832,3832,A.-Chrétien,Saint-David / A.-Chrétien,46.866058,-71.216507,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3832,1
@@ -1650,7 +1650,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1081,1081,Belvédère,R.-Lévesque Ouest / C.-Lavallée,46.796738,-71.239937,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1081,1
 1-1575,1575,Belvédère,R.-Lévesque Ouest / C.-Lavallée,46.796848,-71.239517,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1575,1
 1-2492,2492,des Clercs/2492,des Grandes-Marées / des Clercs,46.74411,-71.366768,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2492,1
-1-3452,3452,St-Clément,Alexandra / Saint-Clément,46.854324,-71.221268,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3452,1
+1-3452,3452,St-Clément,Alexandra / Saint-Clément,46.85421,-71.22242,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3452,1
 1-3831,3831,Clemenceau,Saint-David / Clemenceau,46.864201,-71.214752,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3831,1
 1-3994,3994,Clemenceau,du Bourg-Royal / Clemenceau,46.860523,-71.222908,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3994,0
 1-5092,5092,des Clématites,des Géraniums / des Clématites,46.818222,-71.283333,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5092,0
@@ -1661,7 +1661,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-3439,3439,Clérin/3439,Périgny / Clérin,46.774559,-71.332268,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3439,0
 1-2888,2888,C. Charlesbourg,H.-Bourassa / Cloutier,46.866039,-71.272003,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2888,1
 1-6087,6087,C.-Lockquell,L.-Groulx / C.-Lockquell,46.740082,-71.388802,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6087,0
-1-3127,3127,Cloutier/3127,de Laval / Cloutier,46.86348,-71.278259,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3127,1
+1-3127,3127,Cloutier/3127,de Laval / Cloutier,46.8634,-71.278145,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3127,1
 1-3148,3148,Cloutier/3148,de Laval / Cloutier,46.863327,-71.278206,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3148,1
 1-2954,2954,Cloutier/2954,Trudelle / Cloutier,46.85294,-71.274002,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2954,0
 1-1959,1959,Cloutier/1959,1re Avenue / Cloutier,46.865154,-71.27282,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1959,0
@@ -1670,7 +1670,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4059,4059,Cloutier/4059,Louis-XIV / Cloutier,46.857578,-71.275543,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4059,0
 1-2990,2990,P.-Comtois/2990,76e Rue Ouest / P.-Comtois,46.85722,-71.271156,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2990,1
 1-1042,1042,du Sacré-Coeur,Saint-Vallier Ouest / du Sacré-Coeur,46.810677,-71.243721,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1042,0
-1-4755,4755,du Sacré-Coeur,de Montmartre / du Sacré-Coeur,46.811211,-71.24424,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4755,0
+1-4755,4755,du Sacré-Coeur,de Montmartre / du Sacré-Coeur,46.811222,-71.24424,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4755,0
 1-5666,5666,du Colombage,de l'Amiral / du Colombage,46.8396,-71.419327,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5666,0
 1-2946,2946,du Colisée/2946,des Chênes Ouest / du Colisée,46.835213,-71.248489,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2946,0
 1-4679,4679,la Colline/4679,de la Faune / de la Colline,46.865074,-71.350075,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4679,0
@@ -1681,15 +1681,15 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5221,5221,de Coligny,Le Mesnil / de Coligny,46.838882,-71.294258,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5221,0
 1-3498,3498,du Collège,des Chutes / du Collège,46.860168,-71.182457,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3498,0
 1-3553,3553,du Collège,des Chutes / du Collège,46.860123,-71.182549,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3553,0
-1-3737,3737,de la Colline,Saint-Paul / de la Colline,46.792843,-71.356178,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3737,0
+1-3737,3737,de la Colline,Saint-Paul / de la Colline,46.792831,-71.356194,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3737,0
 1-4083,4083,la Colline/4083,Bastien / de la Colline,46.856598,-71.341614,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4083,1
-1-4197,4197,la Colline/4197,Bastien / de la Colline,46.856548,-71.341385,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4197,0
+1-4197,4197,la Colline/4197,Bastien / de la Colline,46.856548,-71.34137,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4197,0
 1-4669,4669,la Colline/4669,de la Faune / de la Colline,46.865818,-71.349167,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4669,0
 1-4801,4801,de la Colline,Roussin / de la Colline,46.888275,-71.371445,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4801,0
 1-5570,5570,des Collégiens,de l'Aéroport / des Collégiens,46.8409,-71.430069,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5570,0
 1-5629,5629,des Collégiens,de l'Aéroport / des Collégiens,46.840977,-71.430336,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5629,0
 1-5828,5828,P.-Collard,Louis-XIV / P.-Collard,46.888641,-71.220634,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5828,1
-1-7014,7014,C. Parlementaire,R-Lévesque Est / H.-Mercier,46.810226,-71.214272,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7014,0
+1-7014,7014,C. Parlementaire,R-Lévesque Est / H.-Mercier,46.810242,-71.214233,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7014,0
 1-7015,7015,C. Parlementaire,R-Lévesque Est / H.-Mercier,46.809971,-71.214775,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7015,0
 1-7016,7016,C. Parlementaire,R-Lévesque Est / H.-Mercier,46.809986,-71.21479,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7016,0
 1-7017,7017,C. Parlementaire,R-Lévesque Est / J.-J.-Bertrand,46.809063,-71.217506,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7017,0
@@ -1758,7 +1758,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4082,4082,M.-Corriveau,Bastien / M.-Corriveau,46.858063,-71.338326,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4082,0
 1-2877,2877,de la Corse,de Sherwood / de la Corse,46.899643,-71.317467,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2877,0
 1-2885,2885,de la Corse,de Sherwood / de la Corse,46.899948,-71.317535,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2885,0
-1-5068,5068,Costebelle/5068,Banville / du Costebelle,46.824745,-71.332817,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5068,0
+1-5068,5068,Costebelle/5068,Banville / du Costebelle,46.824745,-71.332832,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5068,0
 1-5302,5302,du Costebelle,de l'Ormière / du Costebelle,46.822556,-71.336792,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5302,1
 1-5307,5307,du Costebelle,de l'Ormière / du Costebelle,46.822811,-71.337372,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5307,1
 1-6067,6067,du Coteau,des Bosquets / du Coteau,46.751007,-71.378654,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6067,0
@@ -1785,7 +1785,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5782,5782,Coursol/5782,des Bienfaits / Coursol,46.841656,-71.323059,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5782,1
 1-5788,5788,Coursol,des Bienfaits / Coursol,46.841663,-71.323166,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5788,0
 1-2518,2518,St-Jules,Royale / du Couvent,46.859562,-71.192223,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2518,1
-1-2784,2784,des Couventines,Delage / des Couventines,46.910362,-71.371742,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2784,0
+1-2784,2784,des Couventines,Delage / des Couventines,46.91016,-71.372169,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2784,0
 1-3272,3272,des Coyotes,des Loutres / des Coyotes,46.89185,-71.285362,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3272,0
 1-4538,4538,des Coyotes,des Loutres / des Coyotes,46.892033,-71.28508,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4538,0
 1-4464,4464,J.-Crépeault,de Fatima / J.-Crépeault,46.804199,-71.312561,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4464,0
@@ -1813,7 +1813,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-3741,3741,Notre-Dame,Saint-Paul / Notre-Dame,46.794556,-71.354263,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3741,0
 1-4486,4486,Notre-Dame/4486,Saint-Paul / Notre-Dame,46.794998,-71.353935,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4486,1
 1-4508,4508,Notre-Dame/4508,Chauveau Ouest / Notre-Dame,46.815311,-71.374504,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4508,0
-1-3642,3642,Damiron/3642,du Giron / Damiron,46.817585,-71.356834,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3642,0
+1-3642,3642,Damiron/3642,du Giron / Damiron,46.817566,-71.356857,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3642,0
 1-4371,4371,Damiron/4371,Saint-Jean-Baptiste / Damiron,46.810936,-71.34491,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4371,1
 1-4423,4423,Damiron,Saint-Jean-Baptiste / Damiron,46.810764,-71.345047,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4423,0
 1-3963,3963,Dandrieu,O'Neil / Dandrieu,46.803902,-71.305977,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3963,0
@@ -1908,7 +1908,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2880,2880,Dorval,de Sherwood / Dorval,46.903671,-71.31749,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2880,0
 1-2884,2884,Dorval,de Sherwood / Dorval,46.903831,-71.317657,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2884,0
 1-1946,1946,Dosquet,des Q.-Bourgeois / Dosquet,46.779396,-71.291939,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1946,1
-1-1991,1991,Dosquet,des Q.-Bourgeois / Dosquet,46.779079,-71.292183,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1991,0
+1-1991,1991,Dosquet,des Q.-Bourgeois / Dosquet,46.779079,-71.292198,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1991,0
 1-1085,1085,Pente-Douce,Belvédère / de la Pente-Douce,46.801495,-71.244446,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1085,0
 1-4746,4746,de la Douceur,R.-Bontemps / de la Douceur,46.89484,-71.372169,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4746,0
 1-5196,5196,de la Douceur,R.-Bontemps / de la Douceur,46.894569,-71.372231,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5196,0
@@ -1937,7 +1937,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1430,1430,Duchesneau,Sainte-Foy / Duchesneau,46.773235,-71.315903,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1430,1
 1-1455,1455,Duchesneau,Sainte-Foy / Duchesneau,46.773136,-71.315887,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1455,1
 1-1798,1798,Duchesneau,Hochelaga / Duchesneau,46.763042,-71.303246,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1798,1
-1-1816,1816,Duchesneau,Hochelaga / Duchesneau,46.76268,-71.303673,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1816,1
+1-1816,1816,Duchesneau,Hochelaga / Duchesneau,46.76268,-71.303688,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1816,1
 1-2007,2007,Duchesneau,des Q.-Bourgeois / Duchesneau,46.767181,-71.3106,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2007,1
 1-2530,2530,Duchesnay,Royale / Duchesnay,46.856976,-71.196068,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2530,0
 1-4088,4088,A.-Duchesneau,Bastien / Racine,46.85606,-71.354889,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4088,0
@@ -1965,7 +1965,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1233,1233,Dumas,des Lilas Ouest / Dumas,46.835556,-71.25779,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1233,0
 1-6348,6348,Dumas,des Lilas Ouest / Dumas,46.835747,-71.257568,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6348,0
 1-1797,1797,G.-Dumont,Hochelaga / G.-Dumont,46.764252,-71.301208,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1797,0
-1-1817,1817,G.-Dumont,Hochelaga / G.-Dumont,46.764091,-71.301262,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1817,1
+1-1817,1817,G.-Dumont,Hochelaga / G.-Dumont,46.764091,-71.301247,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1817,1
 1-4081,4081,T.-Dunn,Bastien / T.-Dunn,46.858425,-71.335632,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4081,0
 1-4199,4199,T.-Dunn,Bastien / face au 2120,46.858307,-71.335487,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4199,1
 1-3482,3482,Duportail,des Lucioles / Duportail,46.893753,-71.167137,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3482,0
@@ -1999,7 +1999,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2185,2185,Pr.-Édouard/2185,du Pont / du Prince-Édouard,46.817917,-71.222679,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2185,1
 1-1125,1125,Pr.-Édouard/1125,de la Couronne / du Prince-Édouard,46.81625,-71.226234,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1125,1
 1-1260,1260,Pr.-Édouard/1260,Dorchester / du Prince-Édouard,46.815701,-71.228996,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1260,1
-1-2188,2188,Pr.-Édouard/2188,du Pont / du Prince-Édouard,46.818089,-71.222679,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2188,1
+1-2188,2188,Pr.-Édouard/2188,du Pont / du Prince-Édouard,46.818096,-71.222694,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2188,1
 1-3194,3194,du Pr.-Édouard,Saint-Anselme / du Prince-Édouard,46.814846,-71.231606,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3194,0
 1-6575,6575,de l'Éducation,Langevin / de l'Éducation,46.869419,-71.189728,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6575,0
 1-6588,6588,de l'Éducation,Langevin / de l'Éducation,46.869606,-71.189674,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6588,0
@@ -2171,7 +2171,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4533,4533,des Flandres,H.-Paradis / des Flandres,46.871094,-71.265724,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4533,0
 1-4430,4430,Flaubert,W.-Hamel / Flaubert,46.801823,-71.334076,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4430,0
 1-4909,4909,Flaubert,W.-Hamel / Flaubert,46.802002,-71.33387,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4909,0
-1-1016,1016,Trav. Qc-Lévis,du Marché-Champlain / Dalhousie,46.812202,-71.201675,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1016,1
+1-1016,1016,Trav. Qc-Lévis,du Marché-Champlain / Dalhousie,46.812202,-71.201706,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1016,1
 1-1114,1114,Trav. Qc-Lévis,du Marché-Champlain / Dalhousie,46.812294,-71.202415,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1114,0
 1-1726,1726,Fleur-de-Lys,W.-Hamel / Fleur-de-Lys,46.820404,-71.248833,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1726,1
 1-1747,1747,Fleur-de-Lys,W.-Hamel / Fleur-de-Lys,46.819973,-71.248672,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1747,1
@@ -2181,7 +2181,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2436,2436,É.-Fontaine,P.-Bertrand / É.-Fontaine,46.811749,-71.261185,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2436,0
 1-5143,5143,Fontenelle,Banville / Fontenelle,46.820114,-71.328903,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5143,1
 1-5183,5183,É.-Fontaine,P.-Bertrand / E.-Fontaine,46.811489,-71.260727,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5183,0
-1-5299,5299,Fontenelle,de l'Ormière / Fontenelle,46.818771,-71.331612,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5299,0
+1-5299,5299,Fontenelle,de l'Ormière / Fontenelle,46.81876,-71.331612,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5299,0
 1-5310,5310,Fontenelle,de l'Ormière / Fontenelle,46.818348,-71.331352,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5310,1
 1-7012,7012,de la Foresterie,de la Médecine / de la  Foresterie,46.780033,-71.277847,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7012,0
 1-1354,1354,Fortier/1354,de l'Hôpital / Fortier,46.845345,-71.358467,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1354,0
@@ -2197,7 +2197,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4769,4769,Fortin,P.-Bertrand / Fortin,46.826469,-71.274139,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4769,0
 1-4878,4878,Fortin,P.-Bertrand / Fortin,46.826607,-71.274925,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4878,1
 1-5960,5960,Fortier,W.-Caron / Fortier,46.846905,-71.355621,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5960,0
-1-3650,3650,Fortier/3650,W.-Caron / Fortier,46.847046,-71.355965,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3650,0
+1-3650,3650,Fortier/3650,W.-Caron / Fortier,46.847038,-71.355965,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3650,0
 1-6412,6412,de Fossambault,de Copenhague / de Fossambault,46.747486,-71.459755,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6412,0
 1-4463,4463,Foucault,W.-Hamel / Foucault,46.806324,-71.31086,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4463,0
 1-4474,4474,Foucault,de Fatima / Foucault,46.804527,-71.312874,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4474,0
@@ -2206,14 +2206,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2201,2201,du Foulon/2201,du Foulon / du Foulon,46.7673,-71.258339,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2201,0
 1-3506,3506,Ste-Foy,de l'Église / Sainte-Foy,46.778049,-71.30452,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3506,0
 1-5902,5902,Ste-Foy,de l'Église / Sainte-Foy,46.778004,-71.304619,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5902,0
-1-6495,6495,Ste-Foy,De Villers / Sainte-Foy,46.782627,-71.293022,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6495,1
+1-6495,6495,Ste-Foy,De Villers / Sainte-Foy,46.782619,-71.293022,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6495,1
 1-2070,2070,Ste-Foy/2070,Alain / Sainte-Foy,46.763786,-71.335159,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2070,1
 1-1051,1051,Ste-Foy/1051,Belvédère / Sainte-Foy,46.799923,-71.242706,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1051,0
 1-3746,3746,Ste-Foy/3746,Duchesneau / Sainte-Foy,46.772011,-71.316078,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3746,0
 1-1888,1888,Ste-Foy/1888,Pie-XII / Sainte-Foy,46.766682,-71.32917,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1888,1
 1-1550,1550,N.-Tremblay,des Q.-Bourgeois / Sainte-Foy,46.785465,-71.281906,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1550,1
 1-2177,2177,Ste-Foy/2177,de Rougemont / Sainte-Foy,46.777058,-71.308617,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2177,0
-1-1504,1504,Ste-Foy/1504,du Séminaire / Sainte-Foy,46.786282,-71.276688,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1504,1
+1-1504,1504,Ste-Foy/1504,du Séminaire / Sainte-Foy,46.786274,-71.276703,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1504,1
 1-1262,1262,Place J.-Cartier,Dorchester / Saint-François Est,46.814003,-71.226936,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1262,1
 1-5877,5877,Franklin,de l'Aqueduc / Franklin,46.806622,-71.23465,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5877,0
 1-3527,3527,Français/3527,de l'Obiou / des Français,46.874012,-71.164398,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3527,1
@@ -2221,7 +2221,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-3509,3509,Francheville,des Chutes / Francheville,46.871838,-71.172928,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3509,0
 1-5381,5381,Ste-Marie,Saint-Jacques / Saint-François,46.801926,-71.363426,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5381,0
 1-1282,1282,François-1er,Papineau / François-1er,46.823978,-71.241516,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1282,0
-1-1569,1569,François-1er,de la Pte-aux-Lièvres /François-1er,46.824459,-71.244789,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1569,1
+1-1569,1569,François-1er,de la Pte-aux-Lièvres /François-1er,46.824451,-71.244789,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1569,1
 1-2106,2106,L.-Francoeur,Sainte-Foy / L.-Francoeur,46.754253,-71.339256,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2106,0
 1-4673,4673,Fréchette,de la Faune / Fréchette,46.870064,-71.339699,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4673,0
 1-4706,4706,Fréchette,de la Faune / Fréchette,46.870163,-71.339485,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4706,0
@@ -2240,7 +2240,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-3696,3696,St-Grégoire/3696,103e Rue / Saint-Grégoire,46.876972,-71.156326,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3696,0
 1-2089,2089,A.-Gaboury,J.-C.-Cantin / A.-Gaboury,46.745964,-71.380798,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2089,0
 1-5590,5590,Gaboury,Pie-XI Nord / Gaboury,46.866764,-71.435585,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5590,0
-1-5609,5609,Gaboury,Pie-XI Nord / Gaboury,46.867085,-71.43615,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5609,0
+1-5609,5609,Gaboury,Pie-XI Nord / Gaboury,46.867085,-71.436165,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5609,0
 1-6064,6064,Gaboury,du Sourcin / Gaboury,46.745583,-71.383263,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6064,0
 1-6075,6075,Gaboury,du Sourcin / Gaboury,46.745808,-71.38343,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6075,0
 1-6200,6200,Gaboury,de l'Hêtrière / Gaboury,46.745811,-71.388809,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6200,1
@@ -2371,7 +2371,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4527,4527,Glazier/4527,Samson / Glazier,46.82312,-71.263878,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4527,0
 1-4763,4763,Glazier,Samson / Glazier,46.82333,-71.263565,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4763,0
 1-5192,5192,Glazier/5192,Houde / Glazier,46.826027,-71.266563,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5192,0
-1-5827,5827,Glinel,Louis-XIV / Glinel,46.889786,-71.217545,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5827,1
+1-5827,5827,Glinel,Louis-XIV / Glinel,46.889256,-71.218872,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5827,1
 1-5843,5843,Glinel,Louis-XIV / Saint-Michel,46.889549,-71.217804,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5843,0
 1-3210,3210,du Glorieux/3210,Guérin / du Glorieux,46.85043,-71.378365,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3210,0
 1-4237,4237,du Glorieux/4237,Guérin / du Glorieux,46.850277,-71.378502,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4237,0
@@ -2411,13 +2411,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4036,4036,de Grandlieu,du Bourg-Royal / de Grandlieu,46.871101,-71.238495,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4036,1
 1-5151,5151,de Grandlieu,du Bourg-Royal / de Grandlieu,46.870968,-71.238213,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5151,1
 1-5921,5921,Grands-Lacs/5921,des Grands-Lacs / au 95,46.750828,-71.448692,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5921,0
-1-2545,2545,des Gradins/2545,des Rocailles / des Gradins,46.837337,-71.273018,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2545,1
+1-2545,2545,des Gradins/2545,des Rocailles / des Gradins,46.837345,-71.272995,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2545,1
 1-3873,3873,St-Grégoire/3873,Saint-Grégoire / Saint-Grégoire,46.878395,-71.154755,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3873,0
 1-3066,3066,des Grenats,Louis-XIV / des Grenats,46.877647,-71.248726,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3066,0
 1-3818,3818,Grenier,Seigneuriale / Grenier,46.886902,-71.208107,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3818,0
 1-3968,3968,St-Grégoire/3968,Saint-Grégoire / Saint-Grégoire,46.878071,-71.155067,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3968,0
 1-5593,5593,Grimaldi,Pie-XI Nord / Gillot,46.871616,-71.443077,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5593,0
-1-5606,5606,Grimaldi,Pie-XI Nord / Grimaldi,46.871834,-71.443924,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5606,0
+1-5606,5606,Grimaldi,Pie-XI Nord / Grimaldi,46.871822,-71.443932,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5606,0
 1-1247,1247,de la Griotte,Lebourgneuf / de la Griotte,46.840122,-71.282867,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1247,1
 1-4761,4761,de la Griotte,Lebourgneuf / de la Griotte,46.840363,-71.28299,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4761,1
 1-6111,6111,B.-Grondin,J.-Verne / B.-Grondin,46.783924,-71.348114,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6111,0
@@ -2471,7 +2471,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5651,5651,W.-Hamel,M.-Fragasso / W.-Hamel,46.800678,-71.335587,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5651,0
 1-6315,6315,W.-Hamel/6315,du Parc-Technologique / W.-Hamel,46.804153,-71.326416,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6315,0
 1-6321,6321,W.-Hamel/6321,du Parc-Technologique / W.-Hamel,46.80418,-71.3265,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6321,0
-1-5011,5011,du Hameau,W.-Hamel / du Hameau,46.785061,-71.360703,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5011,0
+1-5011,5011,du Hameau,W.-Hamel / du Hameau,46.785042,-71.360703,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5011,0
 1-3743,3743,W.-Hamel/3743,Notre-Dame / W.-Hamel,46.793854,-71.352097,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3743,0
 1-1731,1731,W.-Hamel/1731,Plante / W.-Hamel,46.814728,-71.252907,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1731,1
 1-4980,4980,W.-Hamel/4980,Pellan / W.-Hamel,46.767185,-71.391319,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4980,0
@@ -2494,7 +2494,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4367,4367,Henri-IV,Michelet / Henri-IV,46.808483,-71.332397,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4367,1
 1-4427,4427,Henri-IV,Michelet / Henri-IV,46.808189,-71.332886,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4427,0
 1-5591,5591,du Hérisson,Pie-XI Nord / Hérelle,46.868462,-71.438065,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5591,0
-1-5608,5608,du Hérisson,Pie-XI Nord / Hérelle,46.868149,-71.437706,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5608,0
+1-5608,5608,du Hérisson,Pie-XI Nord / Hérelle,46.868149,-71.437721,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5608,0
 1-4810,4810,du Grand-Héron,du Lac-Saint-Charles / du G.-Héron,46.909733,-71.376373,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4810,0
 1-4838,4838,du Grand-Héron,du Lac-Saint-Charles / du G.-Héron,46.909489,-71.376205,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4838,0
 1-2016,2016,M.-Hervé,Provancher / M.-Hervé,46.750507,-71.343689,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2016,1
@@ -2530,7 +2530,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2197,2197,Hospitalières,à Gignac / des Hospitalières,46.767433,-71.266418,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2197,0
 1-1866,1866,des Hôtels,Saint-Louis / des Hôtels,46.757053,-71.292686,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1866,0
 1-1926,1926,des Hôtels,Saint-Louis / des Hôtels,46.756859,-71.293365,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1926,0
-1-6276,6276,des Hôtels,des Hôtels,46.753574,-71.290985,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6276,0
 1-5198,5198,Houde,Plante / Houde,46.826977,-71.264114,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5198,0
 1-3256,3256,du Houx,des Thuyas / du Houx,46.882168,-71.276733,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3256,0
 1-3297,3297,du Houx,des Thuyas / du Houx,46.882092,-71.27697,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3297,0
@@ -2543,7 +2542,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4834,4834,du Canard-Huppé,du Lac-Saint-Charles / du C.-Huppé,46.915504,-71.382446,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4834,0
 1-4147,4147,J.-Huston,de la R.-Nelson / J.-Huston,46.866112,-71.38755,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4147,1
 1-4154,4154,J.-Huston,de la R.-Nelson / J.-Huston,46.865906,-71.387688,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4154,1
-1-7003,7003,Hydro-Québec,Hydro-Québec / De Celles,46.823311,-71.31675,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7003,1
+1-7003,7003,Hydro-Québec,Hydro-Québec / De Celles,46.823311,-71.316765,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7003,1
 1-5584,5584,Iberville,Pie-XI Nord / Iberville,46.860168,-71.425972,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5584,0
 1-5615,5615,Iberville,Pie-XI Nord / Iberville,46.860432,-71.426445,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5615,0
 1-4023,4023,du Javeau,Industrielle / des Ibis,46.858833,-71.404716,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4023,1
@@ -2565,7 +2564,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5580,5580,Industrielle,Pie-XI Nord / Industrielle,46.855556,-71.415207,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5580,1
 1-5619,5619,Industrielle,Pie-XI Nord / de l'Etna,46.855373,-71.414818,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5619,1
 1-4452,4452,des Ingénieurs,W.-Hamel / des Ingénieurs,46.806526,-71.274124,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4452,0
-1-4624,4624,des Ingénieurs,W.-Hamel / des Ingénieurs,46.806267,-71.275078,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4624,0
+1-4624,4624,des Ingénieurs,W.-Hamel / des Ingénieurs,46.806255,-71.275131,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4624,0
 1-1310,1310,des Intendants,Bardy / des Intendants,46.845638,-71.229187,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1310,1
 1-5972,5972,Irving,du Petit-Vallon / Irving,46.861736,-71.391701,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5972,0
 1-5973,5973,Irving,du Petit-Vallon / Irving,46.861546,-71.391518,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5973,1
@@ -2594,13 +2593,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2583,2583,du Javeau,Industrielle / du Javeau,46.858791,-71.40432,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2583,0
 1-2589,2589,du Javelot,Industrielle / du Javelot,46.860748,-71.393623,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2589,0
 1-1102,1102,de la Couronne,Charest Est / de la Couronne,46.813507,-71.224388,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1102,1
-1-1195,1195,Place-J.-Cartier,de la Couronne / du Roi,46.814682,-71.225006,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1195,0
+1-1195,1195,Place-J.-Cartier,de la Couronne / du Roi,46.814682,-71.225021,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1195,0
 1-1032,1032,Dorchester,Charest Est / Dorchester,46.812847,-71.226479,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1032,1
 1-1101,1101,Dorchester,Charest Est / Dorchester,46.812977,-71.225914,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1101,1
 1-1138,1138,Univ. du Québec,de la Couronne / De Sainte-Hélène,46.812981,-71.223701,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1138,1
 1-1263,1263,De Ste-Hélène,Dorchester / De Sainte-Hélène,46.812717,-71.225334,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1263,1
 1-8000,8000,de la Couronne,V.-Revillon / de la Couronne,46.812668,-71.22374,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/8000,0
-1-8001,8001,Dorchester,Saint-Joseph Est / Dorchester,46.81374,-71.225967,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/8001,1
+1-8001,8001,Dorchester,Saint-Joseph Est / Dorchester,46.813805,-71.225952,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/8001,1
 1-8002,8002,Univ. du Québec,de la Couronne / Charest Est,46.813404,-71.223915,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/8002,1
 1-1028,1028,de la Couronne,Charest Est / de la Couronne,46.813763,-71.223885,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1028,1
 1-2052,2052,J.C.-Cantin/2052,Saint-Félix / J.-C.-Cantin,46.736942,-71.36615,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2052,1
@@ -2664,7 +2663,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5912,5912,J.-Juneau/5912,J.-Juneau / face au 103,46.743324,-71.456268,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5912,0
 1-6624,6624,des Kalmias,des Eaux-Fraîches / des Kalmias,46.887199,-71.376892,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6624,0
 1-6627,6627,des Kalmias,des Eaux-Fraîches / des Kalmias,46.887291,-71.376862,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6627,0
-1-2437,2437,MacKay,Chapdelaine / MacKay,46.78928,-71.276703,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2437,1
+1-2437,2437,MacKay,Chapdelaine / MacKay,46.789268,-71.276718,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2437,1
 1-2442,2442,MacKay,Chapdelaine / MacKay,46.789097,-71.276863,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2442,0
 1-6295,6295,J.-F.-Kennedy,des Cimes / J.-F.-Kennedy,46.848774,-71.375008,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6295,0
 1-6298,6298,J.-F.-Kennedy,des Cimes / J.-F.-Kennedy,46.848846,-71.374886,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6298,1
@@ -2731,7 +2730,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2354,2354,De Lantagnac,Saint-Louis / De Lantagnac,46.773182,-71.256691,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2354,0
 1-2414,2414,De Lantagnac,Saint-Louis / De Lantagnac,46.773338,-71.256439,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2414,0
 1-2882,2882,A.-Lantier,J.-Parent / A.-Lantier,46.847946,-71.351257,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2882,0
-1-3606,3606,du Lanterneau,Saint-Olivier / du Lanterneau,46.816689,-71.356361,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3606,0
+1-3606,3606,du Lanterneau,Saint-Olivier / du Lanterneau,46.816681,-71.356361,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3606,0
 1-3903,3903,A.-Lantier,J.-Parent / A.-Lantier,46.847755,-71.351135,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3903,0
 1-5853,5853,A.-Lantier,Martel / A.-Lantier,46.847218,-71.3489,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5853,0
 1-5859,5859,A.-Lantier,Lessard / A.-Lantier,46.84734,-71.348061,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5859,0
@@ -2769,7 +2768,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4520,4520,Latulippe,Plante / Latulippe,46.822571,-71.260071,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4520,1
 1-2192,2192,Laurier/2192,C.-Huot / Laurier,46.774471,-71.272919,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2192,0
 1-2069,2069,Laudance,Sainte-Foy / Laudance,46.761768,-71.336533,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2069,1
-1-1941,1941,Laurier/1941,de G.-des-Prés / Laurier,46.768948,-71.287201,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1941,1
+1-1941,1941,Laurier/1941,de G.-des-Prés / Laurier,46.768955,-71.287201,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1941,1
 1-1611,1611,Laurier/1611,Maguire / Laurier,46.784607,-71.255882,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1611,0
 1-1333,1333,Laurentienne,I.-LeVasseur / Laurentienne,46.819107,-71.240601,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1333,0
 1-1549,1549,L.-St-Laurent,Grande Allée Est / L.-Saint-Laurent,46.803715,-71.221176,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1549,0
@@ -2796,7 +2795,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5295,5295,Lavoisier/5295,Faraday / Lavoisier,46.797276,-71.279556,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5295,0
 1-1036,1036,Laviolette,Saint-Vallier Ouest / Laviolette,46.81155,-71.233513,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1036,1
 1-1796,1796,Lavigerie/1796,Hochelaga / Lavigerie,46.766842,-71.296196,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1796,1
-1-1820,1820,Lavigerie/1820,Laurier / Lavigerie,46.764862,-71.292725,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1820,0
+1-1820,1820,Lavigerie/1820,Laurier / Lavigerie,46.764969,-71.292511,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1820,0
 1-5537,5537,Lavigerie,Laurier / Lavigerie,46.764885,-71.293297,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5537,0
 1-1794,1794,Lavigerie/1794,Laurier / Lavigerie,46.764767,-71.293503,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1794,1
 1-1676,1676,Lavoisier/1676,Marconi / Lavoisier,46.797291,-71.277153,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1676,0
@@ -2815,7 +2814,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1173,1173,Lebouthillier,Saint-Vallier Ouest / Lebouthillier,46.807709,-71.253113,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1173,0
 1-2348,2348,Lebourgneuf,Le Mesnil / Lebourgneuf,46.836586,-71.291916,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2348,1
 1-3749,3749,Lebourgneuf,des Gradins / Lebourgneuf,46.843544,-71.278343,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3749,1
-1-4051,4051,Lebourgneuf,des Gradins / Lebourgneuf,46.843716,-71.278275,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4051,0
+1-4051,4051,Lebourgneuf,des Gradins / Lebourgneuf,46.843716,-71.27829,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4051,0
 1-4874,4874,Lebourgneuf,Le Mesnil / Lebourgneuf,46.836452,-71.291962,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4874,1
 1-4917,4917,Lebourgneuf,des Galeries / Lebourgneuf,46.835167,-71.299217,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4917,1
 1-5226,5226,Lebourgneuf,des Galeries / Lebourgneuf,46.835232,-71.298935,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5226,1
@@ -2911,7 +2910,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4492,4492,des Loisirs,Notre-Dame / des Loisirs Est,46.807114,-71.366234,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4492,1
 1-4585,4585,des Loisirs,Notre-Dame / des Loisirs Ouest,46.806641,-71.36586,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4585,1
 1-4790,4790,Longchamps,Lapierre / Longchamps,46.883995,-71.342407,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4790,0
-1-4857,4857,Longchamps,Lapierre / Longchamps,46.884132,-71.342445,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4857,0
+1-4857,4857,Longchamps,Lapierre / Longchamps,46.88414,-71.342461,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4857,0
 1-9503,9503,L'Anc.-Lorette,École secondaire P. L'Anc.-Lorette,46.809105,-71.362427,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/9503,0
 1-2154,2154,des Fleurs,de l'Église / des  Fleurs,46.775475,-71.300941,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2154,1
 1-2181,2181,I.-Garon,de l'Église / I.-Garon,46.775043,-71.300453,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2181,1
@@ -3140,7 +3139,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1725,1725,Centre de foires,W.-Hamel / De Meulles,46.826561,-71.24556,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1725,1
 1-1753,1753,Centre de foires,W.-Hamel / De Meulles,46.826706,-71.24511,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1753,1
 1-4271,4271,Belle-Meunière,Savard / de la Belle-Meunière Nord,46.853481,-71.333664,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4271,0
-1-4329,4329,Belle-Meunière,Savard / de la Belle-Meunière Nord,46.8535,-71.333771,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4329,0
+1-4329,4329,Belle-Meunière,Savard / de la Belle-Meunière Nord,46.8535,-71.333755,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4329,0
 1-1428,1428,De Mézy,Sainte-Foy / De Mézy,46.775162,-71.311913,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1428,1
 1-1457,1457,De Mézy,Sainte-Foy / De Mézy,46.775028,-71.312057,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1457,1
 1-2040,2040,Michener,de la Poterie / Michener,46.751686,-71.351143,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2040,0
@@ -3182,7 +3181,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2915,2915,Ste-Monique,du Lac / Sainte-Monique,46.928116,-71.315872,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2915,0
 1-4822,4822,Monier,du Lac-Saint-Charles / Monier,46.926384,-71.396027,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4822,0
 1-4826,4826,Monier,du Lac-Saint-Charles / Monier,46.926392,-71.396149,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4826,0
-1-4754,4754,de Montmartre,Saint-Luc / de Montmartre,46.811367,-71.242615,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4754,0
+1-4754,4754,de Montmartre,Saint-Luc / de Montmartre,46.811359,-71.242599,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4754,0
 1-5271,5271,de Monaco/5271,Robitaille / de Monaco,46.819042,-71.307472,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5271,1
 1-1346,1346,Canardière/1346,de la Canardière / Montmorency,46.831932,-71.224426,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1346,1
 1-1376,1376,Canardière/1376,de la Canardière / Montmorency,46.832348,-71.224419,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1376,1
@@ -3196,7 +3195,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4894,4894,de Montmartre,Saint-Luc / Saint-Vallier Ouest,46.811314,-71.242653,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4894,0
 1-5493,5493,De Montherlant,Montpellier / De Montherlant,46.885536,-71.21981,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5493,1
 1-5594,5594,de Montolieu,Pie-XI Nord / de Montolieu,46.872238,-71.446014,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5594,0
-1-5605,5605,de Montolieu,Pie-XI Nord / de Montolieu,46.872223,-71.446785,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5605,0
+1-5605,5605,de Montolieu,Pie-XI Nord / de Montolieu,46.872223,-71.4468,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5605,0
 1-5842,5842,Montpellier,Louis-XIV / Montpellier,46.888264,-71.221825,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5842,0
 1-3487,3487,du Monument,Sainte-Anne / du Monument,46.848579,-71.208107,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3487,0
 1-1674,1674,des Moqueurs,D'Estimauville / des Moqueurs,46.842888,-71.211884,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1674,0
@@ -3268,7 +3267,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5966,5966,Nantel,Pincourt / Nantel,46.838055,-71.34803,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5966,0
 1-4589,4589,Napoléon,Notre-Dame / Napoléon,46.796791,-71.357567,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4589,1
 1-4788,4788,des Narcisses,Lapierre / des Narcisses,46.880535,-71.342133,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4788,0
-1-4859,4859,des Narcisses,Lapierre / des Narcisses,46.880516,-71.342178,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4859,0
+1-4859,4859,des Narcisses,Lapierre / des Narcisses,46.880524,-71.342178,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4859,0
 1-1805,1805,de Nassau,Pie-XII / de Nassau,46.757008,-71.315735,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1805,1
 1-1809,1809,de Nassau,Pie-XII / de Nassau,46.756996,-71.31588,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1809,0
 1-2696,2696,des Nations,H.-Bourassa / des Nations Est,46.896969,-71.3022,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2696,0
@@ -3358,7 +3357,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5306,5306,l'Ormière/5306,Racine / de l'Ormière,46.84491,-71.367416,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5306,1
 1-5777,5777,l'Ormière/5777,Ramesay / de l'Ormière,46.834148,-71.354248,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5777,0
 1-6328,6328,l'Ormière/6328,J.-Marchand / de l'Ormière,46.824699,-71.340027,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6328,0
-1-6337,6337,l'Ormière/6337,J.-Marchand / de l'Ormière,46.824707,-71.340523,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6337,1
+1-6337,6337,l'Ormière/6337,J.-Marchand / de l'Ormière,46.824715,-71.3405,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6337,1
 1-5384,5384,de l'Orpin,Jean-XXIII / de l'Orpin,46.879341,-71.168373,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5384,0
 1-5396,5396,de l'Orpin,Jean-XXIII / de l'Orpin,46.879147,-71.168266,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5396,0
 1-6400,6400,de l'Oseille,du Trèfle / de l'Oseille,46.736881,-71.464828,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6400,0
@@ -3399,7 +3398,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4583,4583,Paquet,Notre-Dame / Paquet,46.810516,-71.369835,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4583,0
 1-5135,5135,Paquin/5135,de la Roselière / Paquin,46.818588,-71.28849,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5135,1
 1-5242,5242,Z.-Paquet,J.-Marchand / Z.-Paquet,46.823792,-71.34153,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5242,0
-1-5404,5404,Z.-Paquet,J.-Marchand / Z.-Paquet,46.823879,-71.341652,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5404,0
+1-5404,5404,Z.-Paquet,J.-Marchand / Z.-Paquet,46.823879,-71.341637,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5404,0
 1-5961,5961,Paquet,W.-Caron / Paquet,46.847858,-71.356972,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5961,0
 1-5962,5962,Paquet,W.-Caron / Paquet,46.847961,-71.3573,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5962,0
 1-6568,6568,A.-Paris,Adanac / A.-Paris,46.879719,-71.183624,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6568,0
@@ -3427,7 +3426,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4281,4281,J.-Parent/4281,Lessard / J.-Parent,46.84882,-71.349686,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4281,0
 1-3238,3238,H.-Paradis/3238,Mathieu / H.-Paradis,46.869453,-71.266251,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3238,1
 1-2186,2186,du Parvis,du Prince-Édouard / du Parvis,46.817272,-71.224007,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2186,1
-1-2187,2187,du Parvis,du Prince-Édouard / du Parvis,46.816814,-71.225197,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2187,1
+1-2187,2187,du Parvis,du Prince-Édouard / du Parvis,46.816814,-71.225204,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2187,1
 1-2823,2823,B.-Pascal/2823,Watt / B.-Pascal,46.783035,-71.327927,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2823,0
 1-2226,2226,B.-Pascal/2226,Einstein / B.-Pascal,46.786942,-71.33049,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2226,0
 1-2829,2829,B.-Pascal,Watt / B.-Pascal,46.783108,-71.32814,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2829,0
@@ -3441,7 +3440,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4584,4584,des Patriotes,Notre-Dame / des Patriotes,46.808811,-71.368187,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4584,1
 1-3731,3731,Paul-VI,de la Famille / Paul-VI,46.777153,-71.369179,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3731,1
 1-5003,5003,Paul-VI/5003,Auclair / Paul-VI,46.774059,-71.365318,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5003,0
-1-1062,1062,St-Paul,A.-Martin / Saint-Paul,46.817272,-71.212151,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1062,1
+1-1062,1062,St-Paul,A.-Martin / Saint-Paul,46.817245,-71.212151,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1062,1
 1-1064,1064,St-Paul,A.-Martin / Saint-Paul,46.817013,-71.212158,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1064,1
 1-1129,1129,de la Canoterie,Dinan / Saint-Paul,46.817066,-71.209549,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1129,1
 1-4509,4509,St-Paul/4509,Notre-Dame / Saint-Paul,46.794479,-71.353584,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4509,0
@@ -3475,7 +3474,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2125,2125,du Card.-Persico,de Sillery / du Cardinal-Persico,46.774937,-71.24437,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2125,0
 1-2208,2208,du Card.-Persico,de Sillery / du Cardinal-Persico,46.774841,-71.244141,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2208,0
 1-3752,3752,Perrier,Seigneuriale / Perrier,46.867115,-71.192764,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3752,1
-1-5070,5070,de Pertuis,du Costebelle / de Pertuis,46.823292,-71.335968,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5070,0
+1-5070,5070,de Pertuis,du Costebelle / de Pertuis,46.823299,-71.335953,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5070,0
 1-5138,5138,de Pertuis,du Costebelle / de Pertuis,46.823181,-71.336121,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5138,1
 1-5974,5974,du Petit-Vallon,Irving / du Petit-Vallon,46.861488,-71.391983,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5974,0
 1-2152,2152,Peupliers/2152,8e Avenue / des Peupliers Est,46.841496,-71.238182,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2152,0
@@ -3521,7 +3520,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-6598,6598,Piraube,Tronquet / Piraube,46.883621,-71.190231,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6598,0
 1-3030,3030,A.-Pivain,du Bourg-Royal / A.-Pivain,46.887951,-71.254051,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3030,0
 1-3058,3058,A.-Pivain,du Bourg-Royal / A.-Pivain,46.888157,-71.254265,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3058,0
-1-2939,2939,Place J.-Cartier,du Roi / Dorchester,46.814411,-71.226616,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2939,0
+1-2939,2939,Place J.-Cartier,du Roi / Dorchester,46.814392,-71.226646,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2939,0
 1-3612,3612,Platanes/3612,des Cyprès / des Platanes,46.881927,-71.280258,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3612,1
 1-5424,5424,Platanes/5424,des Cyprès / des Platanes,46.881783,-71.280495,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5424,0
 1-5193,5193,Plante/5193,Houde / Plante,46.826969,-71.264366,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5193,0
@@ -3570,7 +3569,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2166,2166,Dompierre/2166,de Dompierre / Prévert,46.7817,-71.316162,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2166,0
 1-4112,4112,des Prêles,de Vénus / des Prêles,46.876526,-71.336922,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4112,0
 1-4374,4374,des Prêles,de Vénus / des Prêles,46.876564,-71.336586,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4374,0
-1-1943,1943,Cégep-de-Ste-Foy,des Q.-Bourgeois / de Prével,46.784218,-71.284111,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1943,0
+1-1943,1943,Cégep-de-Ste-Foy,des Q.-Bourgeois / de Prével,46.784225,-71.284111,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1943,0
 1-1994,1994,Cégep-de-Ste-Foy,des Q.-Bourgeois / de la Médecine,46.783882,-71.28437,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1994,1
 1-6570,6570,Y.-Prévost/6570,Labelle / Y.-Prévost,46.875217,-71.181137,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6570,0
 1-6593,6593,Y.-Prévost,Labelle / Y.-Prévost,46.875191,-71.181023,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6593,1
@@ -3622,7 +3621,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4151,4151,Racine/4151,de l'Hôpital / Racine,46.849247,-71.363777,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4151,0
 1-4326,4326,Racine,de l'Hôpital / Racine,46.8489,-71.363228,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4326,0
 1-5305,5305,Racine/5305,W.-Caron / Racine,46.850574,-71.360817,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5305,1
-1-3634,3634,Racine/3634,W.-Caron / Racine,46.850395,-71.360748,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3634,0
+1-3634,3634,Racine/3634,W.-Caron / Racine,46.850403,-71.360748,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3634,0
 1-4148,4148,Racine/4148,W.-Caron / Racine,46.850315,-71.36055,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4148,0
 1-4796,4796,Rae,du Lac-Saint-Charles / Rae,46.891506,-71.357338,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4796,0
 1-4851,4851,Rae,du Lac-Saint-Charles / Rae,46.891441,-71.357323,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4851,0
@@ -3690,9 +3689,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4726,4726,Rigaud,du Roitelet / Rigaud,46.86166,-71.344734,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4726,0
 1-5829,5829,Rimbaud,Louis-XIV / Rimbaud,46.887634,-71.224838,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5829,1
 1-5841,5841,Rimbaud,Louis-XIV / Rimbaud,46.887489,-71.225029,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5841,0
-1-1020,1020,Espace 400,Saint-André / Rioux,46.817104,-71.205879,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1020,1
-1-1110,1110,Espace 400,Saint-André / Rioux,46.817005,-71.206314,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1110,1
-1-3654,3654,la Ritournelle,Damiron / de la Ritournelle,46.81509,-71.351509,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3654,0
+1-1020,1020,Espace 400,Saint-André / Rioux,46.817032,-71.205933,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1020,1
+1-1110,1110,Espace 400,Saint-André / Rioux,46.817074,-71.206261,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1110,1
+1-3654,3654,la Ritournelle,Damiron / de la Ritournelle,46.815098,-71.351524,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3654,0
 1-4138,4138,la Ritournelle,Damiron / de la Ritournelle,46.815285,-71.3517,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4138,0
 1-3501,3501,de la Belle-Rive,du Collège / de la Belle-Rive,46.862019,-71.178192,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3501,0
 1-3550,3550,de la Belle-Rive,du Père-Giroux / de la Belle-Rive,46.862083,-71.177986,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3550,0
@@ -3707,8 +3706,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4385,4385,Robitaille,de Monaco / Robitaille,46.819206,-71.307373,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4385,0
 1-5257,5257,Robitaille,de Monaco / Robitaille,46.818974,-71.307236,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5257,0
 1-5330,5330,P.-Robitaille,de la Famille / P.-Robitaille,46.783588,-71.360535,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5330,0
-1-1944,1944,Halles-Ste-Foy,des Q.-Bourgeois / R.-Bourassa,46.782131,-71.287682,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1944,1
-1-1993,1993,Halles-Ste-Foy,des Q.-Bourgeois / R.-Bourassa,46.782207,-71.287109,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1993,1
+1-1944,1944,Halles-Ste-Foy,des Q.-Bourgeois / R.-Bourassa,46.78207,-71.287735,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1944,1
+1-1993,1993,Halles-Ste-Foy,des Q.-Bourgeois / R.-Bourassa,46.782089,-71.287407,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1993,1
 1-1162,1162,Rochebelle/1162,R.-Beaudin / De Rochebelle,46.771793,-71.298714,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1162,1
 1-2314,2314,de La Rochelle,de Valmont / de La Rochelle,46.756283,-71.282921,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2314,0
 1-2820,2820,Rochon,Pie-XII / Rochon,46.76878,-71.332375,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2820,0
@@ -3747,7 +3746,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4373,4373,des Roseaux,de Vénus / des Roseaux,46.876934,-71.335121,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4373,0
 1-5115,5115,de la Roselière,des Géraniums / de la Roselière,46.820469,-71.287117,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5115,0
 1-5401,5401,des Roses,des Platanes / des Roses,46.883373,-71.281898,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5401,1
-1-1980,1980,Ross,Boul. Champlain / Ross,46.755913,-71.272354,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1980,0
+1-1980,1980,Ross,Boul. Champlain / Ross,46.755905,-71.272362,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1980,0
 1-2026,2026,Ross,Boul. Champlain / Ross,46.756161,-71.271881,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2026,0
 1-2302,2302,Ross/2302,Saint-Louis / Ross,46.764038,-71.278671,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2302,0
 1-2335,2335,Ross/2335,Saint-Louis / Ross,46.764259,-71.278389,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2335,0
@@ -3763,7 +3762,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2060,2060,A.-Rouleau,Sainte-Foy / A.-Rouleau,46.758778,-71.337379,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2060,1
 1-4040,4040,A.-Rouleau,Sainte-Foy / A.-Rouleau,46.75901,-71.337433,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4040,1
 1-1065,1065,J.-Rousseau,Sheppard / J.-Rousseau,46.783363,-71.250534,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1065,0
-1-1423,1423,IUCPQ,Sainte-Foy / A.-Rousseau,46.780441,-71.300522,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1423,1
+1-1423,1423,IUCPQ,Sainte-Foy / A.-Rousseau,46.780434,-71.300522,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1423,1
 1-1462,1462,IUCPQ,Sainte-Foy / A.-Rousseau,46.780407,-71.30027,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1462,1
 1-1839,1839,J.-Rousseau,Sheppard / J.-Rousseau,46.783218,-71.250755,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1839,1
 1-2428,2428,É. Boudreau,Beaucage / Rousseau,46.817471,-71.257347,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2428,0
@@ -3818,7 +3817,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2274,2274,St-Sacrement,Charest Ouest / Saint-Sacrement,46.799507,-71.256454,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2274,1
 1-4451,4451,St-Sacrement,Saint-Vallier Ouest/Saint-Sacrement,46.806534,-71.266212,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4451,0
 1-6480,6480,du Sacré-Coeur,de Montmartre / du Sacré-Coeur,46.811268,-71.243744,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6480,1
-1-4625,4625,St-Sacrement,Saint-Vallier Ouest/Saint-Sacrement,46.806366,-71.265816,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4625,0
+1-4625,4625,St-Sacrement,Saint-Vallier Ouest/Saint-Sacrement,46.806366,-71.2658,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4625,0
 1-1767,1767,De Salaberry,Grande Allée Est / De Salaberry,46.802929,-71.222557,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1767,1
 1-1851,1851,De Salaberry,Grande Allée Est / Galipeault,46.802933,-71.222404,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1851,1
 1-4405,4405,de Salzbourg,du Patrimoine-Mondial / de Salzbourg,46.845715,-71.340195,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4405,1
@@ -3834,7 +3833,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-3488,3488,du Sanctuaire,Sainte-Anne / du Sanctuaire,46.849453,-71.206146,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3488,0
 1-3563,3563,du Sanctuaire,Sainte-Anne / du Sanctuaire,46.849369,-71.206779,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3563,0
 1-1359,1359,Ste-Anne/1359,D'Estimauville / Sainte-Anne,46.844646,-71.213913,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1359,0
-1-2631,2631,des Santolines,H.-Bourassa / des Santolines,46.892216,-71.297821,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2631,1
+1-2631,2631,des Santolines,H.-Bourassa / des Santolines,46.892216,-71.297836,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2631,1
 1-2931,2931,des Santolines,H.-Bourassa / des Santolines,46.892384,-71.29818,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2931,1
 1-5188,5188,Santerre,V.-Delamarre / Santerre,46.818344,-71.265068,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5188,0
 1-5219,5219,Santerre,V.-Delamarre / Santerre,46.818516,-71.2649,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5219,1
@@ -3871,7 +3870,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5002,5002,F.-A.-Savard,Auclair / F.-A.-Savard,46.77319,-71.367401,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5002,0
 1-7335,7335,L.-Savard,H.-Bourassa / L.-Savard,46.895191,-71.300758,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7335,1
 1-7336,7336,L.-Savard,H.-Bourassa / L.-Savard,46.894833,-71.30024,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7336,1
-1-4198,4198,M.-Corriveau,Bastien / Savard,46.858063,-71.338081,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4198,1
+1-4198,4198,M.-Corriveau,Bastien / Savard,46.858055,-71.338081,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4198,1
 1-4516,4516,Savard/4516,du Curé-Lacroix / Savard,46.855907,-71.335381,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4516,0
 1-3304,3304,de Savoie,des Platanes / de Savoie,46.874271,-71.275101,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3304,0
 1-5412,5412,de Savoie,des Platanes / de Savoie,46.874138,-71.274887,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5412,0
@@ -3931,8 +3930,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1983,1983,de Sillery,Boul. Champlain / de Sillery,46.77116,-71.24823,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1983,0
 1-2017,2017,de Sillery,Boul. Champlain / de Sillery,46.770916,-71.248695,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2017,0
 1-2207,2207,du Foulon/2207,du Foulon / de Sillery,46.772137,-71.249069,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2207,1
-1-4399,4399,Simard,G.-Muir / Simard,46.893131,-71.322197,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4399,1
-1-4960,4960,Simard,G.-Muir / Simard,46.892891,-71.322754,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4960,0
+1-4399,4399,Simard,G.-Muir / Simard,46.89312,-71.322197,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4399,1
+1-4960,4960,Simard,G.-Muir / Simard,46.892891,-71.322739,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4960,0
 1-3577,3577,St-Siméon,du Petit-Village / Saint-Siméon,46.853951,-71.227844,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3577,1
 1-3627,3627,St-Siméon,du Petit-Village / Saint-Siméon,46.853916,-71.227989,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3627,0
 1-6269,6269,J.-Simons,Chauveau / J.-Simons,46.824196,-71.361748,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6269,1
@@ -3942,7 +3941,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4821,4821,du Beau-Site,du Lac-Saint-Charles / du Beau-Site,46.924259,-71.393921,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4821,0
 1-4827,4827,du Beau-Site,du Lac-Saint-Charles / du Beau-Site,46.924526,-71.394348,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4827,0
 1-4299,4299,du Soleil-Levant,de Vénus / du Soleil-Levant,46.878242,-71.323425,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4299,0
-1-2029,2029,des Hôtels,des Hôtels / Saint-Louis,46.754372,-71.291534,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2029,0
 1-1696,1696,St-Luc,des Oblats / Saint-Luc,46.808918,-71.239845,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1696,0
 1-4588,4588,St-Luc,Notre-Dame / Saint-Luc,46.79837,-71.359093,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4588,1
 1-1616,1616,St-Luc,des Oblats / Saint-Luc,46.809174,-71.239441,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1616,0
@@ -3998,12 +3996,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2312,2312,Stanley,de Valmont / Stanley,46.758629,-71.280746,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2312,0
 1-2325,2325,Stanley,de Valmont / Stanley,46.758457,-71.280922,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2325,1
 1-6481,6481,St-Bonaventure,de l'Aqueduc / Saint-Bonaventure,46.808689,-71.24469,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6481,0
-1-3736,3736,de Champigny,Saint-Paul / Saint-Clément,46.791588,-71.357597,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3736,0
+1-3736,3736,de Champigny,Saint-Paul / Saint-Clément,46.79158,-71.357597,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3736,0
 1-4110,4110,des Stellaires,de Vénus / des Stellaires,46.876682,-71.33847,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4110,1
 1-4389,4389,des Stellaires,de Vénus / des Stellaires,46.876858,-71.338226,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4389,0
-1-2339,2339,St-Théoph./2339,de Tunis / Saint-Théophile,46.886059,-71.163078,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2339,0
-1-1019,1019,St-Pierre,Saint-André / Saint-Pierre,46.816925,-71.204384,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1019,1
-1-1111,1111,St-Pierre,Saint-André / Saint-Pierre,46.816696,-71.203728,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1111,1
+1-2339,2339,St-Théoph./2339,de Tunis / Saint-Théophile,46.886055,-71.163101,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2339,0
+1-1019,1019,St-Pierre,Saint-André / Saint-Pierre,46.816845,-71.204292,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1019,1
+1-1111,1111,St-Pierre,Saint-André / Saint-Pierre,46.816784,-71.20385,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1111,1
 1-3353,3353,de Strasbourg,A.-Drolet / de Strasbourg,46.775368,-71.322433,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3353,0
 1-3430,3430,de Strasbourg,A.-Drolet / de Strasbourg,46.775394,-71.322456,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3430,0
 1-1863,1863,W.-Stuart,Saint-Louis / W.-Stuart,46.759029,-71.287514,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1863,1
@@ -4041,7 +4039,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2655,2655,Taillon,Charest Ouest / Taillon,46.800095,-71.253441,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2655,0
 1-2676,2676,J.-Talon/2676,H.-Bourassa / J.-Talon Est,46.870762,-71.277458,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2676,1
 1-2734,2734,Talbot/2734,des Fraisiers / Talbot,46.930794,-71.344887,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2734,0
-1-4502,4502,J.-Talon/4502,des Diamants / J.-Talon Est,46.879894,-71.257492,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4502,1
+1-4502,4502,J.-Talon/4502,des Diamants / J.-Talon Est,46.879883,-71.257492,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4502,1
 1-3243,3243,J.-Talon/3243,de Gironde / J.-Talon Est,46.875217,-71.267815,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3243,0
 1-2594,2594,J.-Talon/2594,de Laval / J.-Talon Ouest,46.866764,-71.285904,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2594,0
 1-2598,2598,J.-Talon/2598,de Laval / J.-Talon Ouest,46.866795,-71.285812,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2598,1
@@ -4114,7 +4112,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2724,2724,J.-P.-Tessier,de la Rivière-Jaune / J.-P.-Tessier,46.929821,-71.34758,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2724,0
 1-2742,2742,J.-P.-Tessier,de la Rivière-Jaune / J.-P.-Tessier,46.929821,-71.347656,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2742,0
 1-7331,7331,T. de la Faune,Terminus de la Faune - Zone C,46.888699,-71.306511,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7331,1
-1-7332,7332,T. de la Faune,Terminus de la Faune - Zone B,46.888882,-71.30603,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7332,1
+1-7332,7332,T. de la Faune,Terminus de la Faune - Zone B,46.888908,-71.305962,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7332,1
 1-7333,7333,T. de la Faune,Terminus de la Faune - Zone A,46.889217,-71.305466,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/7333,1
 1-3095,3095,du Mont-Thabor,H.-Bourassa / du Mont-Thabor,46.840935,-71.233253,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3095,0
 1-3876,3876,Ste-Thérèse/3876,Saint-Albert / Sainte-Thérèse,46.904789,-71.194679,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3876,0
@@ -4122,7 +4120,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-3800,3800,Ste-Thérèse/3800,Saint-Honoré / Sainte-Thérèse,46.902866,-71.199921,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3800,0
 1-4012,4012,St-Théoph./4012,Larue / Saint-Théophile,46.888603,-71.163055,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4012,0
 1-5672,5672,Ste-Thérèse/5672,L.-Bélanger / Sainte-Thérèse,46.898819,-71.20871,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5672,1
-1-3446,3446,St-Théoph./3446,Royale / Saint-Théophile,46.881573,-71.162262,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3446,1
+1-3446,3446,St-Théoph./3446,Royale / Saint-Théophile,46.881565,-71.162262,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3446,1
 1-5708,5708,St-Théoph./5708,Larue / Saint-Théophile,46.8885,-71.163544,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5708,0
 1-2770,2770,Therrien,du Lac-Saint-Charles / J.-Gagné,46.90654,-71.373924,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2770,0
 1-2787,2787,Therrien,du Lac-Saint-Charles / F.-Cabrini,46.906868,-71.374191,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2787,0
@@ -4134,33 +4132,35 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5116,5116,Thibault,Saint-Claude / Thibault,46.845978,-71.386375,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5116,0
 1-4942,4942,Thivierge,Saint-Yves / Thivierge,46.766655,-71.38298,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4942,0
 1-4990,4990,Thivierge,Saint-Yves / Thivierge,46.766781,-71.383263,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4990,0
-1-1021,1021,St-Thomas,Saint-André / Saint-Thomas,46.817413,-71.208557,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1021,1
-1-1109,1109,St-Thomas,Saint-André / Saint-Thomas,46.817295,-71.208351,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1109,1
+1-1021,1021,St-Thomas,Saint-André / Saint-Thomas,46.817387,-71.208549,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1021,1
+1-1109,1109,St-Thomas,Saint-André / Saint-Thomas,46.817307,-71.208336,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1109,1
 1-5473,5473,Thomassin,Louis-XIV / Thomassin,46.896214,-71.208008,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5473,0
 1-5483,5483,Thomassin,Louis-XIV / Thomassin,46.896694,-71.207794,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5483,0
 1-1058,1058,Thornhill,Grande Allée Ouest / Thornhill,46.791164,-71.243225,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1058,1
 1-1076,1076,Thornhill,Grande Allée Ouest / Thornhill,46.790543,-71.243889,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1076,1
 1-3255,3255,des Thuyas,des Caryas / des Thuyas,46.882732,-71.27401,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3255,0
 1-13964,13964,Champlain,de la Nouvelle-France / Champlain,46.79805,-71.219048,,0
-1-13963,13963,Champlain/1120,Champlain face au 601,46.800846,-71.213478,,0
-1-13962,13962,des Sapeurs,Champlain / des Sapeurs,46.802433,-71.208771,,0
-1-13961,13961,Champlain,Champlain,46.805206,-71.205345,,0
 1-13960,13960,Champlain,de la Nouvelle-France / Champlain,46.798031,-71.219124,,0
 1-11942,11942,121e Rue,Sainte-Anne / 121e Rue,46.871178,-71.161133,,0
-1-11876,11876,L.-Riel,Hochelaga / Louis-Riel,46.763382,-71.302429,,0
 1-11875,11875,des Châtelets,Lavigerie  / des Châtelets,46.766003,-71.295517,,0
-1-11874,11874,L.-Riel,Hochelaga / Louis-Riel,46.763309,-71.302559,,0
-1-11846,11846,St-Nicolas,de la Potasse  / Saint-Nicolas,46.815533,-71.212936,,0
-1-11841,11841,St-Nicolas,de la Potasse  / Saint-Nicolas,46.815495,-71.212914,,0
-1-11840,11840,St-Nicolas,de la Potasse  / Saint-Nicolas,46.815495,-71.212967,,0
-1-11839,11839,des Érables,René-Lévesque Ouest / des Érables,46.802155,-71.230156,,0
-1-11838,11838,des Érables,René-Lévesque Ouest / des Érables,46.802143,-71.23011,,0
-1-11837,11837,des Érables,René-Lévesque Ouest / des Érables,46.802174,-71.230095,,0
-1-11836,11836,du Chef,de l'Amiral / du Chef,46.839325,-71.422531,,0
-1-11835,11835,du Chef,de la Montagne Est / du Chef,46.84454,-71.42852,,0
+1-11831,11831,de la Canardière,Henri-Bourassa / de la Canardière,46.835003,-71.224152,,0
+1-11812,11812,Germain-des-Prés,Jules-Dallaire / de Germain-des-Prés,46.769409,-71.288086,,0
+1-11811,11811,Germain-des-Prés,Jules-Dallaire / de Germain-des-Prés,46.769444,-71.288101,,0
+1-11810,11810,Germain-des-Prés,Jules-Dallaire / de Germain-des-Prés,46.769455,-71.288124,,0
+1-11809,11809,Germain-des-Prés,Jules-Dallaire / de Germain-des-Prés,46.769501,-71.288101,,0
+1-11798,11798,L.-Riel,Hochelaga / Louis-Riel,46.763069,-71.30304,,0
+1-11797,11797,M.-Fragasso,Rideau / Michel-Fragasso,46.799366,-71.335121,,0
+1-11796,11796,Bouffard,de l'Aqueduc / Bouffard,46.808884,-71.245132,,0
+1-11795,11795,Bouffard,de l'Aqueduc / Bouffard,46.808914,-71.24511,,0
+1-11794,11794,Bouffard,de l'Aqueduc / Bouffard,46.808929,-71.245125,,0
+1-11793,11793,Bouffard,de l'Aqueduc / Bouffard,46.808914,-71.245125,,0
+1-11792,11792,St-Sauveur,Saint-Vallier Ouest / Saint-Sauveur,46.810448,-71.244202,,0
+1-11791,11791,St-J.-Baptiste,de l'Amitié / Saint-Jean-Baptiste,46.810726,-71.343132,,0
+1-11790,11790,St-J.-Baptiste,de l'Amitié / Saint-Jean-Baptiste,46.810707,-71.343132,,0
+1-11786,11786,Samson,Baker / Samson,46.821613,-71.267464,,0
 1-6319,6319,du Tonnelier,des Artisans / du Tonnelier,46.736988,-71.449036,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6319,0
 1-3367,3367,des Topazes,des Diamants / des Topazes,46.88245,-71.258682,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3367,1
-1-4503,4503,des Topazes,des Diamants / des Topazes,46.882206,-71.258575,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4503,0
+1-4503,4503,des Topazes,des Diamants / des Topazes,46.882217,-71.25856,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4503,0
 1-4529,4529,Tourmaline/4529,des Chrysolithes / de la Tourmaline,46.880039,-71.261116,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4529,0
 1-3105,3105,Tourmaline/3105,des Diamants / de la Tourmaline,46.880692,-71.258072,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3105,1
 1-3141,3141,Tourangeau,Saint-Vallier Ouest / Tourangeau,46.808823,-71.249184,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3141,0
@@ -4180,7 +4180,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-2709,2709,N.-Tremblay,Sainte-Foy / N.-Tremblay,46.78595,-71.280533,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2709,1
 1-2124,2124,Treggett,de Sillery / Treggett,46.77618,-71.245811,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2124,0
 1-2209,2209,Treggett,de Sillery / Treggett,46.776062,-71.245583,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2209,0
-1-1416,1416,St. Lawrence,Chapdelaine / N.-Tremblay,46.787342,-71.280907,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1416,0
+1-1416,1416,St. Lawrence,Chapdelaine / N.-Tremblay,46.787342,-71.280922,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1416,0
 1-1858,1858,du Gén.-Tremblay,de l'Église / du Gén.-Tremblay,46.765232,-71.285828,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1858,1
 1-1933,1933,du Gén.-Tremblay,de l'Église / du Gén.-Tremblay,46.765491,-71.286247,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1933,0
 1-4120,4120,Faux-Trembles,Valcartier / des Faux-Trembles,46.864979,-71.37571,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4120,0
@@ -4236,14 +4236,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1766,1766,Turnbull,Grande Allée Est / Turnbull,46.804104,-71.220528,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1766,1
 1-1852,1852,Turnbull/1852,Grande Allée Est / Turnbull,46.803905,-71.220695,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1852,1
 1-1413,1413,Univ. Laval/1413,Sainte-Foy / du Séminaire,46.787117,-71.277176,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1413,1
-1-1472,1472,Université Laval,Sainte-Foy / du Séminaire,46.787121,-71.276543,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1472,1
+1-1472,1472,Université Laval,Sainte-Foy / du Séminaire,46.787121,-71.276558,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1472,1
 1-1561,1561,Univ. Laval/1561,de l'Université / des S.-Humaines,46.7794,-71.270241,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1561,1
 1-1999,1999,Université Laval,Laurier - Université Laval,46.776627,-71.270622,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1999,0
 1-3144,3144,d'Urfé,de Gironde / d'Urfé,46.871307,-71.267578,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3144,0
 1-3170,3170,d'Urfé,de Gironde / d'Urfé,46.871037,-71.267616,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3170,0
 1-4278,4278,Dames-Ursulines,Louis-IX / des Dames-Ursulines,46.852692,-71.35321,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4278,0
 1-4009,4009,Vachon,Larue / Vachon,46.888741,-71.159752,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4009,0
-1-5339,5339,Vachon,de Tunis / Vachon,46.886257,-71.15947,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5339,0
+1-5339,5339,Vachon,de Tunis / Vachon,46.886276,-71.15947,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5339,0
 1-5335,5335,Vachon/5335,de Tunis / Vachon,46.886303,-71.159668,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5335,0
 1-4693,4693,Vaillancourt,des Sommeliers / Vaillancourt,46.87112,-71.324249,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4693,0
 1-5031,5031,Vaillancourt,des Sommeliers / Vaillancourt,46.870911,-71.324402,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5031,0
@@ -4298,8 +4298,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-4514,4514,de la Verdure,Saint-Jean-Baptiste / de la Verdure,46.809616,-71.346985,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4514,0
 1-4902,4902,J.-Verne/4902,Duplessis / J.-Verne,46.785477,-71.349503,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4902,1
 1-5982,5982,De La Vérendrye,Montmorency / De La Vérendrye,46.836746,-71.215752,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5982,0
-1-1981,1981,du Verger,Boul. Champlain / du Verger,46.7621,-71.264503,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1981,0
-1-2021,2021,du Verger,Boul. Champlain / du Verger,46.761795,-71.264542,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2021,0
+1-1981,1981,du Verger,Boul. Champlain / du Verger,46.762119,-71.264511,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1981,0
+1-2021,2021,du Verger,Boul. Champlain / du Verger,46.761787,-71.264542,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2021,0
 1-2363,2363,du Verger,Saint-Louis / du Verger,46.766762,-71.272324,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2363,0
 1-2405,2405,du Verger,Saint-Louis / du Verger,46.766819,-71.272179,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2405,1
 1-4994,4994,J.-Verne/4994,J.-Gauvin / J.-Verne,46.76791,-71.374321,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4994,1
@@ -4348,13 +4348,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-5152,5152,du Vignoble/5152,du Bourg-Royal / du Vignoble,46.873383,-71.240517,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5152,0
 1-5441,5441,du Vignoble/5441,Rachel / du Vignoble,46.879013,-71.229759,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5441,0
 1-1784,1784,G.-Vill./1784,Le Gendre / G.-Villeneuve,46.768543,-71.348946,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1784,1
-1-1945,1945,De Villers,des Q.-Bourgeois / De Villers,46.780697,-71.289925,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1945,1
+1-1945,1945,De Villers,des Q.-Bourgeois / De Villers,46.780685,-71.289925,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1945,1
 1-2243,2243,G.-Vill./2243,Le Gendre / G.-Villeneuve,46.768692,-71.349274,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2243,1
 1-2350,2350,Col. Jésus-Marie,Saint-Louis / De Villars,46.778187,-71.251297,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/2350,1
 1-3270,3270,Villonet/3270,de l'Alaska / du Villonet,46.907845,-71.211456,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3270,0
 1-3277,3277,du Villonet,de l'Alaska / du Villonet,46.907673,-71.211388,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3277,0
 1-3625,3625,du Petit-Village,Gaspard / du Petit-Village,46.854145,-71.232834,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/3625,0
-1-4783,4783,É.-Villeneuve,Lapierre / E.-Villeneuve,46.872547,-71.33812,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4783,0
+1-4783,4783,É.-Villeneuve,Lapierre / E.-Villeneuve,46.872089,-71.338005,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4783,0
 1-4864,4864,É.-Villeneuve,Lapierre / E.-Villeneuve,46.872513,-71.338188,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4864,0
 1-5485,5485,G.-Vill./5485,Le Gendre / G.-Villeneuve,46.771301,-71.352959,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5485,0
 1-4931,4931,De Vinci/4931,Auclair / De Vinci,46.772152,-71.369019,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4931,0
@@ -4389,7 +4389,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boar
 1-1665,1665,Dalton/1665,Dalton / Watt,46.786751,-71.309204,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1665,0
 1-4093,4093,W.-Caron/4093,Racine / W.-Caron,46.85096,-71.360718,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4093,1
 1-6504,6504,L.-Welch,Louis-XIV / L.-Welch,46.898853,-71.187111,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/6504,0
-1-1739,1739,W.-Hamel/1739,M.-de-l'Incarnation / W.-Hamel,46.813396,-71.251381,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1739,1
+1-1739,1739,W.-Hamel/1739,M.-de-l'Incarnation / W.-Hamel,46.813396,-71.251373,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/1739,1
 1-4350,4350,W.-Hamel,Central / W.-Hamel,46.807083,-71.291267,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4350,1
 1-4444,4444,W.-Hamel,Central / W.-Hamel,46.807442,-71.291565,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/4444,1
 1-5010,5010,W.-Hamel/5010,Elzéar / W.-Hamel,46.783356,-71.362808,https://www.rtcquebec.ca/horaires-et-trajets/horaires-des-bus/tous-les-parcours/5010,0
